@@ -1,0 +1,364 @@
+time|morning|காலை|kaalai|ˈmɔːr.nɪŋ|MOR-ning|noun|A1|🌅|c||ochtend
+time|afternoon|மதியம்|mathiyam|ˌæf.tɚˈnuːn|af-ter-NOON|noun|A1|🌤️|c||middag
+time|evening|மாலை|maalai|ˈiːv.nɪŋ|EEV-ning|noun|A1|🌆|c||avond
+time|night|இரவு|iravu|naɪt|NYT|noun|A1|🌙|c||nacht
+time|today|இன்று|indru|təˈdeɪ|tuh-DAY|noun|A1|📅|c||vandaag
+time|tomorrow|நாளை|naalai|təˈmɑː.roʊ|tuh-MAH-roh|noun|A1|📅|c||morgen
+time|yesterday|நேற்று|netru|ˈjes.tɚ.deɪ|YES-ter-day|noun|A1|📅|c||gisteren
+time|now|இப்போது|ippodhu|naʊ|NOW|adverb|A1|⏰|c
+time|later|பிறகு|piragu|ˈleɪ.t̬ɚ|LAY-ter|adverb|A1|⏳|c
+time|soon|விரைவில்|viraivil|suːn|SOON|adverb|A2|⏳|c
+time|early|சீக்கிரம்|seekkiram|ˈɝː.li|ER-lee|adverb|A1|⏰|c
+time|late|தாமதம்|thaamatham|leɪt|LAYT|adjective|A1|⏰|a|||தாமதமாக
+time|hour|மணி|mani|ˈaʊ.ɚ|OW-er|noun|A1|🕐|c||uur
+time|minute|நிமிடம்|nimidam|ˈmɪn.ɪt|MIN-it|noun|A1|⏱️|c||minuut
+time|second|வினாடி|vinaadi|ˈsek.ənd|SEK-und|noun|A2|⏱️|c||seconde
+time|week|வாரம்|vaaram|wiːk|WEEK|noun|A1|📆|c||week
+time|month|மாதம்|maatham|mʌnθ|MUNTH|noun|A1|📆|c||maand
+time|year|வருடம்|varudam|jɪr|YEER|noun|A1|📆|c||jaar
+time|Monday|திங்கள்|thingal|ˈmʌn.deɪ|MUN-day|noun|A1|📅|c||maandag
+time|Tuesday|செவ்வாய்|sevvai|ˈtuːz.deɪ|TOOZ-day|noun|A1|📅|c||dinsdag
+time|Wednesday|புதன்|budhan|ˈwenz.deɪ|WENZ-day|noun|A1|📅|c||woensdag
+time|Thursday|வியாழன்|viyaazhan|ˈθɝːz.deɪ|THERZ-day|noun|A1|📅|c||donderdag
+time|Friday|வெள்ளி|velli|ˈfraɪ.deɪ|FRY-day|noun|A1|📅|c||vrijdag
+time|Saturday|சனி|sani|ˈsæt.ɚ.deɪ|SAT-er-day|noun|A1|📅|c||zaterdag
+time|Sunday|ஞாயிறு|nyaayiru|ˈsʌn.deɪ|SUN-day|noun|A1|📅|c||zondag
+time|January|ஜனவரி|january|ˈdʒæn.ju.er.i|JAN-yoo-er-ee|noun|A1|📅|c||januari
+time|February|பிப்ரவரி|february|ˈfeb.ru.er.i|FEB-roo-er-ee|noun|A1|📅|c||februari
+time|March|மார்ச்|march|mɑːrtʃ|MARCH|noun|A1|📅|c||maart
+time|April|ஏப்ரல்|april|ˈeɪ.prəl|AY-prul|noun|A1|📅|c||april
+time|May|மே|may|meɪ|MAY|noun|A1|📅|c||mei
+time|June|ஜூன்|june|dʒuːn|JOON|noun|A1|📅|c||juni
+time|July|ஜூலை|july|dʒuˈlaɪ|joo-LY|noun|A1|📅|c||juli
+time|August|ஆகஸ்ட்|august|ˈɑː.ɡəst|AH-gust|noun|A1|📅|c||augustus
+time|September|செப்டம்பர்|september|sepˈtem.bɚ|sep-TEM-ber|noun|A1|📅|c||september
+time|October|அக்டோபர்|october|ɑːkˈtoʊ.bɚ|ahk-TOH-ber|noun|A1|📅|c||oktober
+time|November|நவம்பர்|november|noʊˈvem.bɚ|noh-VEM-ber|noun|A1|📅|c||november
+time|December|டிசம்பர்|december|dɪˈsem.bɚ|di-SEM-ber|noun|A1|📅|c||december
+time|birthday|பிறந்தநாள்|piranthanaal|ˈbɝːθ.deɪ|BERTH-day|noun|A1|🎂|c||verjaardag
+time|holiday|விடுமுறை|vidumurai|ˈhɑː.lə.deɪ|HAH-luh-day|noun|A2|🏖️|c|holiday is British for vacation; in the US a holiday is a public day off|
+time|weekend|வார இறுதி|vaara iruthi|ˈwiːk.end|WEEK-end|noun|A1|🎉|c||weekend
+time|daily|தினமும்|thinamum|ˈdeɪ.li|DAY-lee|adverb|A2|📆|c
+time|weekly|வாரந்தோறும்|vaaranthorum|ˈwiːk.li|WEEK-lee|adverb|B1|📆|c
+time|midnight|நடு இரவு|nadu iravu|ˈmɪd.naɪt|MID-nyt|noun|A2|🌙|c
+time|noon|நண்பகல்|nanpagal|nuːn|NOON|noun|A1|☀️|c
+money|money|பணம்|panam|ˈmʌn.i|MUN-ee|noun|A1|💵|u||geld
+money|cash|ரொக்கம்|rokkam|kæʃ|KASH|noun|A1|💵|u||contant
+money|coin|நாணயம்|naanayam|kɔɪn|KOYN|noun|A1|🪙|c||munt
+money|dollar|டாலர்|dollar|ˈdɑː.lɚ|DAH-ler|noun|A1|💵|c
+money|euro|யூரோ|euro|ˈjʊr.oʊ|YUR-oh|noun|A1|💶|c||euro
+money|cent|சென்ட்|cent|sent|SENT|noun|A1|🪙|c
+money|price|விலை|vilai|praɪs|PRYS|noun|A1|🏷️|c||prijs
+money|cost|செலவு|selavu|kɔːst|KAWST|noun|A1|💸|c||kosten
+money|bill|பில்|bill|bɪl|BIL|noun|A1|🧾|c
+money|receipt|ரசீது|raseethu|rɪˈsiːt|ri-SEET|noun|A2|🧾|c||bon
+money|change|சில்லறை|sillari|tʃeɪndʒ|CHAYNJ|noun|A2|🪙|u
+money|wallet|பணப்பை|panappai|ˈwɑː.lət|WAH-lut|noun|A1|👛|c
+money|card|அட்டை|attai|kɑːrd|KARD|noun|A1|💳|c||kaart
+money|credit card|கிரெடிட் கார்டு|credit card|ˈkred.ɪt kɑːrd|KRED-it KARD|noun|A2|💳|c
+money|debit card|டெபிட் கார்டு|debit card|ˈdeb.ɪt kɑːrd|DEB-it KARD|noun|A2|💳|c
+money|bank|வங்கி|vangi|bæŋk|BANK|noun|A1|🏦|c||bank
+money|account|கணக்கு|kanakku|əˈkaʊnt|uh-KOWNT|noun|A2|🏦|c||rekening
+money|salary|சம்பளம்|sambalam|ˈsæl.ɚ.i|SAL-uh-ree|noun|A2|💰|c
+money|wage|கூலி|kooli|weɪdʒ|WAYJ|noun|B1|💰|c
+money|tax|வரி|vari|tæks|TAKS|noun|B1|🏛️|c||belasting
+money|tip|டிப்|tip|tɪp|TIP|noun|A2|💵|c
+money|discount|தள்ளுபடி|thallupadi|ˈdɪs.kaʊnt|DIS-kownt|noun|A2|🏷️|c
+money|expensive|விலை அதிகம்|vilai athigam|ɪkˈspen.sɪv|ik-SPEN-siv|adjective|A1|💸|a|||விலை அதிகமாக
+money|cheap|மலிவான|malivaana|tʃiːp|CHEEP|adjective|A1|🪙|a|||மலிவாக
+money|free|இலவசம்|ilavasam|friː|FREE|adjective|A1|🆓|a|||இலவசமாக
+money|loan|கடன்|kadan|loʊn|LOHN|noun|B1|🏦|c||lening
+money|debt|கடன்|kadan|det|DET|noun|B1|📉|c
+money|savings|சேமிப்பு|semippu|ˈseɪ.vɪŋz|SAY-vingz|noun|A2|🐷|g
+money|budget|பட்ஜெட்|budget|ˈbʌdʒ.ɪt|BUJ-it|noun|B1|📊|c
+money|rent|வாடகை|vaadagai|rent|RENT|noun|A2|🏠|u
+shopping|shop|கடை|kadai|ʃɑːp|SHAHP|noun|A1|🏪|c|shop is common in Britain; store is common in the US|
+shopping|store|கடை|kadai|stɔːr|STOR|noun|A1|🏬|c
+shopping|market|சந்தை|sandhai|ˈmɑːr.kɪt|MAR-kit|noun|A1|🛒|c||markt
+shopping|supermarket|சூப்பர் மார்க்கெட்|supermarket|ˈsuː.pɚ ˌmɑːr.kɪt|SOO-per MAR-kit|noun|A1|🛒|c
+shopping|mall|மால்|mall|mɔːl|MAWL|noun|A2|🛍️|c
+shopping|customer|வாடிக்கையாளர்|vaadikkaiyaalar|ˈkʌs.tə.mɚ|KUS-tuh-mer|noun|A2|🧑|p
+shopping|cashier|காசாளர்|kaasaalar|kæˈʃɪr|ka-SHEER|noun|A2|🧑|p
+shopping|bag|பை|pai|bæɡ|BAG|noun|A1|👜|c||tas
+shopping|basket|கூடை|koodai|ˈbæs.kɪt|BAS-kit|noun|A1|🧺|c||mand
+shopping|cart|கார்ட்|cart|kɑːrt|KART|noun|A1|🛒|c|trolley|
+shopping|size|அளவு|alavu|saɪz|SYZ|noun|A1|📏|c||maat
+shopping|sale|சேல்|sale|seɪl|SAYL|noun|A2|🏷️|c
+shopping|offer|ஆஃபர்|offer|ˈɑː.fɚ|AW-fer|noun|A2|🏷️|c
+shopping|queue|வரிசை|varisai|kjuː|KYOO|noun|A2|🧍|c|queue is the usual British word; Americans say line|
+shopping|line|வரிசை|varisai|laɪn|LYN|noun|A1|🧍|c
+shopping|counter|கவுண்டர்|counter|ˈkaʊn.tɚ|KOWN-ter|noun|A2|🧾|c
+shopping|barcode|பார்கோடு|barcode|ˈbɑːr.koʊd|BAR-kohd|noun|A2|🏷️|c
+shopping|return|திரும்ப கொடுத்தல்|thirumba koduththal|rɪˈtɝːn|ri-TERN|noun|A2|↩️|c
+shopping|exchange|மாற்று|maatru|ɪksˈtʃeɪndʒ|iks-CHAYNJ|noun|B1|🔄|c
+shopping|brand|பிராண்ட்|brand|brænd|BRAND|noun|A2|™️|c
+shopping|quality|தரம்|tharam|ˈkwɑː.lə.ti|KWAH-luh-tee|noun|B1|✅|u
+shopping|quantity|அளவு|alavu|ˈkwɑːn.t̬ə.ti|KWAN-tuh-tee|noun|B1|🔢|c
+shopping|list|பட்டியல்|pattiyal|lɪst|LIST|noun|A1|📝|c||lijst
+shopping|groceries|மளிகை|maligai|ˈɡroʊ.sɚ.iz|GROH-ser-eez|noun|A2|🛒|g
+shopping|bakery|பேக்கரி|bakery|ˈbeɪ.kɚ.i|BAY-kuh-ree|noun|A2|🥖|c
+shopping|butcher|இறைச்சிக் கடை|iraichik kadai|ˈbʊtʃ.ɚ|BUCH-er|noun|B1|🥩|c
+transport|bus|பேருந்து|perundhu|bʌs|BUS|noun|A1|🚌|c||bus
+transport|train|ரயில்|rayil|treɪn|TRAYN|noun|A1|🚆|c||trein
+transport|car|கார்|car|kɑːr|KAR|noun|A1|🚗|c||auto
+transport|taxi|டாக்ஸி|taxi|ˈtæk.si|TAK-see|noun|A1|🚕|c||taxi
+transport|auto rickshaw|ஆட்டோ|aatto|ˈɑː.t̬oʊ ˈrɪk.ʃɔː|AH-toh RIK-shaw|noun|A1|🛺|c
+transport|bike|பைக்|bike|baɪk|BYK|noun|A1|🏍️|c
+transport|bicycle|சைக்கிள்|cycle|ˈbaɪ.sə.kəl|BY-suh-kul|noun|A1|🚲|c||fiets
+transport|motorcycle|மோட்டார் சைக்கிள்|motor cycle|ˈmoʊ.t̬ɚ.saɪ.kəl|MOH-ter-sy-kul|noun|A2|🏍️|c
+transport|truck|லாரி|lorry|trʌk|TRUK|noun|A2|🚚|c|lorry|
+transport|van|வேன்|van|væn|VAN|noun|A2|🚐|c
+transport|subway|சுரங்க ரயில்|suranga rayil|ˈsʌb.weɪ|SUB-way|noun|A2|🚇|c|underground or tube|
+transport|metro|மெட்ரோ|metro|ˈmet.roʊ|MET-roh|noun|A1|🚇|c
+transport|station|நிலையம்|nilaiyam|ˈsteɪ.ʃən|STAY-shun|noun|A1|🚉|c||station
+transport|stop|நிறுத்தம்|niruththam|stɑːp|STAHP|noun|A1|🚏|c
+transport|ticket|டிக்கெட்|ticket|ˈtɪk.ɪt|TIK-it|noun|A1|🎫|c||kaartje
+transport|platform|பிளாட்ஃபாரம்|platform|ˈplæt.fɔːrm|PLAT-form|noun|A2|🚉|c
+transport|driver|ஓட்டுநர்|ottunar|ˈdraɪ.vɚ|DRY-ver|noun|A1|🧑|p||chauffeur
+transport|passenger|பயணி|payani|ˈpæs.ən.dʒɚ|PAS-un-jer|noun|A2|🧑|p
+transport|traffic|போக்குவரத்து|pokkuvaraththu|ˈtræf.ɪk|TRAF-ik|noun|A2|🚦|u||verkeer
+transport|road|சாலை|saalai|roʊd|ROHD|noun|A1|🛣️|c||weg
+transport|street|தெரு|theru|striːt|STREET|noun|A1|🛣️|c||straat
+transport|bridge|பாலம்|paalam|brɪdʒ|BRIJ|noun|A2|🌉|c||brug
+transport|parking|பார்க்கிங்|parking|ˈpɑːr.kɪŋ|PAR-king|noun|A2|🅿️|u
+transport|gas station|பெட்ரோல் பங்க்|petrol bunk|ɡæs ˈsteɪ.ʃən|GAS STAY-shun|noun|A2|⛽|c|petrol station|
+transport|airplane|விமானம்|vimaanam|ˈer.pleɪn|AIR-playn|noun|A1|✈️|c
+transport|airport|விமான நிலையம்|vimaana nilaiyam|ˈer.pɔːrt|AIR-port|noun|A1|🛫|c||luchthaven
+transport|ship|கப்பல்|kappal|ʃɪp|SHIP|noun|A2|🚢|c||schip
+transport|boat|படகு|padagu|boʊt|BOHT|noun|A1|⛵|c||boot
+transport|ferry|படகு சேவை|padagu sevai|ˈfer.i|FER-ee|noun|B1|⛴️|c
+transport|helmet|ஹெல்மெட்|helmet|ˈhel.mɪt|HEL-mit|noun|A2|⛑️|c
+transport|seat belt|சீட் பெல்ட்|seat belt|siːt belt|SEET BELT|noun|A2|🚗|c
+travel|passport|பாஸ்போர்ட்|passport|ˈpæs.pɔːrt|PAS-port|noun|A1|🛂|c||paspoort
+travel|visa|விசா|visa|ˈviː.zə|VEE-zuh|noun|A1|📄|c||visum
+travel|ticket|டிக்கெட்|ticket|ˈtɪk.ɪt|TIK-it|noun|A1|🎫|c
+travel|luggage|சாமான்கள்|saamaangal|ˈlʌɡ.ɪdʒ|LUG-ij|noun|A1|🧳|u
+travel|suitcase|சூட்கேஸ்|suitcase|ˈsuːt.keɪs|SOOT-kays|noun|A1|🧳|c
+travel|backpack|பேக்|bag|ˈbæk.pæk|BAK-pak|noun|A1|🎒|c
+travel|map|வரைபடம்|varaipadam|mæp|MAP|noun|A1|🗺️|c||kaart
+travel|hotel|ஹோட்டல்|hotel|hoʊˈtel|hoh-TEL|noun|A1|🏨|c||hotel
+travel|reservation|முன்பதிவு|munpathivu|ˌrez.ɚˈveɪ.ʃən|rez-er-VAY-shun|noun|A2|📅|c
+travel|check-in|செக் இன்|check in|ˈtʃek.ɪn|CHEK-in|noun|A2|🛫|c
+travel|boarding pass|போர்டிங் பாஸ்|boarding pass|ˈbɔːr.dɪŋ pæs|BOR-ding PAS|noun|A2|🎫|c
+travel|gate number|கேட்|gate|ɡeɪt|GAYT|noun|A2|🚪|c
+travel|customs|சுங்கம்|sungam|ˈkʌs.təmz|KUS-tumz|noun|B1|🛂|u
+travel|immigration|குடியேற்ற அலுவலகம்|kudiyetra aluvagalagam|ˌɪm.əˈɡreɪ.ʃən|im-uh-GRAY-shun|noun|B1|🛂|u
+travel|security|பாதுகாப்பு|paadhukaappu|sɪˈkjʊr.ə.ti|si-KYUR-uh-tee|noun|A2|🔐|u
+travel|delay|தாமதம்|thaamatham|dɪˈleɪ|di-LAY|noun|A2|⏳|c
+travel|flight|விமானப் பயணம்|vimaanap payanam|flaɪt|FLYT|noun|A1|✈️|c||vlucht
+travel|seat|இருக்கை|irukkai|siːt|SEET|noun|A1|💺|c||stoel
+travel|window seat|ஜன்னல் இருக்கை|jannal irukkai|ˈwɪn.doʊ siːt|WIN-doh SEET|noun|A2|🪟|c
+travel|aisle|இடைகழி|idaikazhi|aɪl|ILE|noun|B1|🚶|c
+travel|tourist|சுற்றுலாப் பயணி|sutrulaap payani|ˈtʊr.ɪst|TUR-ist|noun|A2|📸|p
+travel|guide|வழிகாட்டி|vazhikaatti|ɡaɪd|GYD|noun|A2|🧭|c
+travel|trip|பயணம்|payanam|trɪp|TRIP|noun|A1|🧳|c||reis
+travel|journey|பயணம்|payanam|ˈdʒɝː.ni|JER-nee|noun|A2|🛤️|c
+travel|vacation|விடுமுறை|vidumurai|veɪˈkeɪ.ʃən|vay-KAY-shun|noun|A1|🏖️|c|holiday|
+travel|booking|முன்பதிவு|munpathivu|ˈbʊk.ɪŋ|BUK-ing|noun|A2|📱|c
+travel|address|முகவரி|mugavari|ˈæd.res|AD-res|noun|A1|🏠|c||adres
+travel|direction|திசை|thisai|dəˈrek.ʃən|duh-REK-shun|noun|A2|➡️|c
+travel|left|இடது|idathu|left|LEFT|noun|A1|⬅️|c||links
+travel|right|வலது|valathu|raɪt|RYT|noun|A1|➡️|c||rechts
+travel|straight|நேராக|neraaga|streɪt|STRAYT|adverb|A1|⬆️|c
+travel|near|அருகில்|arugil|nɪr|NEER|adverb|A1|📍|c
+travel|far|தூரம்|thooram|fɑːr|FAR|adjective|A1|📍|a|||தூரமாக
+travel|city|நகரம்|nagaram|ˈsɪt̬.i|SIT-ee|noun|A1|🏙️|c||stad
+travel|town|நகரம்|nagaram|taʊn|TOWN|noun|A1|🏘️|c
+travel|village|கிராமம்|graamam|ˈvɪl.ɪdʒ|VIL-ij|noun|A1|🏡|c||dorp
+travel|country|நாடு|naadu|ˈkʌn.tri|KUN-tree|noun|A1|🌍|c||land
+travel|embassy|தூதரகம்|thootharagam|ˈem.bə.si|EM-buh-see|noun|B1|🏛️|c
+travel|consulate|துணைத் தூதரகம்|thunaith thootharagam|ˈkɑːn.sə.lət|KAHN-suh-lut|noun|B2|🏛️|c
+jobs|teacher|ஆசிரியர்|aasiriyar|ˈtiː.tʃɚ|TEE-cher|noun|A1|👩‍🏫|p||leraar
+jobs|student|மாணவர்|maanavar|ˈstuː.dənt|STOO-dunt|noun|A1|🎓|p||student
+jobs|doctor|மருத்துவர்|maruththuvar|ˈdɑːk.tɚ|DAHK-ter|noun|A1|🧑‍⚕️|p
+jobs|nurse|செவிலியர்|seviliyar|nɝːs|NERS|noun|A1|👩‍⚕️|p
+jobs|engineer|பொறியாளர்|poriyaalar|ˌen.dʒɪˈnɪr|en-juh-NEER|noun|A2|👷|p
+jobs|driver|ஓட்டுநர்|ottunar|ˈdraɪ.vɚ|DRY-ver|noun|A1|🚗|p
+jobs|farmer|விவசாயி|vivasaayi|ˈfɑːr.mɚ|FAR-mer|noun|A1|🌾|p||boer
+jobs|cook|சமையல்காரர்|samaiyalkaarar|kʊk|KUK|noun|A1|👨‍🍳|p||kok
+jobs|chef|செஃப்|chef|ʃef|SHEF|noun|A2|👨‍🍳|p
+jobs|waiter|பரிமாறுபவர்|parimaarubavar|ˈweɪ.tɚ|WAY-ter|noun|A2|🧑|p
+jobs|cashier|காசாளர்|kaasaalar|kæˈʃɪr|ka-SHEER|noun|A2|💳|p
+jobs|police officer|காவலர்|kaavalar|pəˈliːs ˈɑː.fə.sɚ|puh-LEES AW-fuh-ser|noun|A2|👮|p
+jobs|firefighter|தீயணைப்பாளர்|theeyanaippaalar|ˈfaɪrˌfaɪ.t̬ɚ|FYR-fy-ter|noun|A2|🚒|p
+jobs|soldier|சிப்பாய்|sippai|ˈsoʊl.dʒɚ|SOHL-jer|noun|A2|🫡|p
+jobs|lawyer|வழக்கறிஞர்|vazhakkarignar|ˈlɔɪ.ɚ|LOY-er|noun|A2|⚖️|p
+jobs|judge|நீதிபதி|needhipathi|dʒʌdʒ|JUJ|noun|B1|⚖️|p
+jobs|accountant|கணக்காளர்|kanakkaalar|əˈkaʊn.tənt|uh-KOWN-tunt|noun|B1|📒|p
+jobs|manager|மேலாளர்|melaalar|ˈmæn.ɪ.dʒɚ|MAN-i-jer|noun|A2|🧑‍💼|p
+jobs|boss|முதலாளி|muthalaali|bɔːs|BAWS|noun|A1|🧑‍💼|p
+jobs|employee|ஊழியர்|oozhiyar|ɪmˈplɔɪ.iː|im-PLOY-ee|noun|A2|🧑|p
+jobs|worker|தொழிலாளி|thozhilaali|ˈwɝː.kɚ|WER-ker|noun|A1|👷|p
+jobs|carpenter|தச்சர்|thachchar|ˈkɑːr.pən.tɚ|KAR-pun-ter|noun|A2|🪚|p
+jobs|electrician|மின்சார தொழிலாளி|minsaara thozhilaali|ɪˌlekˈtrɪʃ.ən|i-lek-TRISH-un|noun|A2|⚡|p
+jobs|plumber|குழாய் பழுது பார்ப்பவர்|kuzhaai pazhuthu|ˈplʌm.ɚ|PLUM-er|noun|A2|🔧|p
+jobs|mechanic|மெக்கானிக்|mechanic|məˈkæn.ɪk|muh-KAN-ik|noun|A2|🔧|p
+jobs|tailor|தையற்காரர்|thaiyarkaarar|ˈteɪ.lɚ|TAY-ler|noun|A2|🧵|p
+jobs|barber|முடிதிருத்துபவர்|mudithiruththubavar|ˈbɑːr.bɚ|BAR-ber|noun|A2|💈|p
+jobs|artist|கலைஞர்|kalainjar|ˈɑːr.t̬ɪst|AR-tist|noun|A2|🎨|p
+jobs|singer|பாடகர்|paadagar|ˈsɪŋ.ɚ|SING-er|noun|A1|🎤|p
+jobs|actor|நடிகர்|nadigar|ˈæk.tɚ|AK-ter|noun|A2|🎬|p
+jobs|writer|எழுத்தாளர்|ezhuththaalar|ˈraɪ.t̬ɚ|RY-ter|noun|A2|✍️|p
+jobs|journalist|பத்திரிகையாளர்|paththirikaiyaalar|ˈdʒɝː.nə.lɪst|JER-nuh-list|noun|B1|📰|p
+jobs|scientist|விஞ்ஞானி|vingnaani|ˈsaɪ.ən.tɪst|SY-un-tist|noun|A2|🔬|p
+jobs|pilot|விமானி|vimaani|ˈpaɪ.lət|PY-lut|noun|A2|✈️|p
+jobs|sailor|மாலுமி|maalumi|ˈseɪ.lɚ|SAY-ler|noun|B1|⛵|p
+jobs|fisherman|மீனவர்|meenavar|ˈfɪʃ.ɚ.mən|FISH-er-mun|noun|A2|🎣|p
+jobs|shopkeeper|கடைக்காரர்|kadaikkaarar|ˈʃɑːpˌkiː.pɚ|SHAHP-kee-per|noun|A2|🏪|p
+jobs|programmer|புரோகிராமர்|programmer|ˈproʊ.ɡræm.ɚ|PROH-gram-er|noun|A2|💻|p
+jobs|designer|வடிவமைப்பாளர்|vadivamaippaalar|dɪˈzaɪ.nɚ|di-ZY-ner|noun|B1|🎨|p
+jobs|receptionist|வரவேற்பாளர்|varaverpaalar|rɪˈsep.ʃən.ɪst|ri-SEP-shuh-nist|noun|B1|🏨|p
+school|school|பள்ளி|palli|skuːl|SKOOL|noun|A1|🏫|c||school
+school|college|கல்லூரி|kalluri|ˈkɑː.lɪdʒ|KAH-lij|noun|A1|🎓|c
+school|university|பல்கலைக்கழகம்|palkalaikkazhagam|ˌjuː.nəˈvɝː.sə.ti|yoo-nuh-VER-suh-tee|noun|A2|🎓|c||universiteit
+school|class|வகுப்பு|vaguppu|klæs|KLAS|noun|A1|🏫|c||klas
+school|classroom|வகுப்பறை|vagupparai|ˈklæs.ruːm|KLAS-room|noun|A1|🚪|c
+school|teacher|ஆசிரியர்|aasiriyar|ˈtiː.tʃɚ|TEE-cher|noun|A1|👩‍🏫|p
+school|student|மாணவர்|maanavar|ˈstuː.dənt|STOO-dunt|noun|A1|🎓|p
+school|homework|வீட்டுப்பாடம்|veettuppaadam|ˈhoʊm.wɝːk|HOHM-werk|noun|A1|📘|u
+school|lesson|பாடம்|paadam|ˈles.ən|LES-un|noun|A1|📖|c||les
+school|exam|தேர்வு|thervu|ɪɡˈzæm|ig-ZAM|noun|A1|📝|c
+school|test|தேர்வு|thervu|test|TEST|noun|A1|📝|c||toets
+school|grade|மதிப்பெண்|mathippen|ɡreɪd|GRAYD|noun|A2|💯|c
+school|book|புத்தகம்|puththagam|bʊk|BUK|noun|A1|📕|c||boek
+school|notebook|நோட்டு|nottu|ˈnoʊt.bʊk|NOHT-buk|noun|A1|📓|c
+school|pen|பேனா|pena|pen|PEN|noun|A1|🖊️|c||pen
+school|pencil|பென்சில்|pencil|ˈpen.səl|PEN-sul|noun|A1|✏️|c||potlood
+school|eraser|அழிப்பான்|azhippaan|ɪˈreɪ.sɚ|i-RAY-ser|noun|A1|🧽|c|rubber|
+school|ruler|அளவுகோல்|alavukol|ˈruː.lɚ|ROO-ler|noun|A1|📏|c
+school|school bag|பை|pai|bæɡ|BAG|noun|A1|🎒|c
+school|board|கரும்பலகை|karumpalagai|bɔːrd|BORD|noun|A1|🖤|c
+school|chalk|சுண்ணாம்பு|sunnaambu|tʃɑːk|CHAWK|noun|A2|⚪|u
+school|library|நூலகம்|noolagam|ˈlaɪ.brer.i|LY-brer-ee|noun|A2|📚|c||bibliotheek
+school|principal|தலைமையாசிரியர்|thalaimaiyaasiriyar|ˈprɪn.sə.pəl|PRIN-suh-pul|noun|A2|🧑|p
+school|subject|பாடம்|paadam|ˈsʌb.dʒekt|SUB-jekt|noun|A2|📚|c
+school|math|கணிதம்|kanitham|mæθ|MATH|noun|A1|➗|u|maths|
+school|science|அறிவியல்|ariviyal|ˈsaɪ.əns|SY-uns|noun|A1|🔬|u
+school|history|வரலாறு|varalaaru|ˈhɪs.tɚ.i|HIS-tuh-ree|noun|A2|📜|u
+school|English|ஆங்கிலம்|aangilam|ˈɪŋ.ɡlɪʃ|ING-glish|noun|A1|🔤|u
+school|Tamil|தமிழ்|thamizh|ˈtæm.ɪl|TAM-il|noun|A1|🔤|u
+school|question|கேள்வி|kelvi|ˈkwes.tʃən|KWES-chun|noun|A1|❓|c||vraag
+school|answer|பதில்|pathil|ˈæn.sɚ|AN-ser|noun|A1|💬|c||antwoord
+school|mistake|தவறு|thavaru|mɪˈsteɪk|mi-STAYK|noun|A2|❌|c
+school|practice|பயிற்சி|payirchi|ˈpræk.tɪs|PRAK-tis|noun|A2|🔁|u
+school|break|இடைவேளை|idaivelai|breɪk|BRAYK|noun|A1|☕|c
+school|uniform|சீருடை|seerudai|ˈjuː.nə.fɔːrm|YOO-nuh-form|noun|A2|👔|c
+school|degree|பட்டம்|pattam|dɪˈɡriː|di-GREE|noun|B1|🎓|c
+school|scholarship|உதவித்தொகை|uthavithogai|ˈskɑː.lɚ.ʃɪp|SKAH-ler-ship|noun|B2|🎓|c
+office|office|அலுவலகம்|aluvagalagam|ˈɑː.fɪs|AW-fis|noun|A1|🏢|c||kantoor
+office|desk|மேசை|mesai|desk|DESK|noun|A1|🖥️|c||bureau
+office|computer|கணினி|kanini|kəmˈpjuː.t̬ɚ|kum-PYOO-ter|noun|A1|💻|c||computer
+office|laptop|லேப்டாப்|laptop|ˈlæp.tɑːp|LAP-tahp|noun|A1|💻|c
+office|meeting|கூட்டம்|koottam|ˈmiː.t̬ɪŋ|MEE-ting|noun|A1|🗓️|c||vergadering
+office|email|மின்னஞ்சல்|minnanjal|ˈiː.meɪl|EE-mayl|noun|A1|📧|c
+office|password|கடவுச்சொல்|kadavuchchol|ˈpæs.wɝːd|PAS-werd|noun|A2|🔑|c
+office|file|கோப்பு|koppu|faɪl|FYL|noun|A2|📁|c
+office|folder|கோப்புறை|koppurai|ˈfoʊl.dɚ|FOHL-der|noun|A2|📁|c
+office|printer|பிரிண்டர்|printer|ˈprɪn.tɚ|PRIN-ter|noun|A2|🖨️|c
+office|copy|நகல்|nagal|ˈkɑː.pi|KAH-pee|noun|A2|📄|c
+office|report|அறிக்கை|arikkai|rɪˈpɔːrt|ri-PORT|noun|A2|📄|c
+office|deadline|கெடு|kedu|ˈded.laɪn|DED-lyn|noun|B1|⏰|c
+office|project|திட்டம்|thittam|ˈprɑː.dʒekt|PRAH-jekt|noun|A2|📌|c
+office|colleague|சக ஊழியர்|saga oozhiyar|ˈkɑː.liːɡ|KAH-leeg|noun|A2|🧑|p
+office|client|வாடிக்கையாளர்|vaadikkaiyaalar|ˈklaɪ.ənt|KLY-unt|noun|B1|🧑|p
+office|schedule|அட்டவணை|attavanai|ˈskedʒ.uːl|SKEJ-ool|noun|B1|📅|c|Americans say SKEJ-ool|
+office|calendar|நாட்காட்டி|naatkaatti|ˈkæl.ən.dɚ|KAL-un-der|noun|A2|📆|c
+office|break|இடைவேளை|idaivelai|breɪk|BRAYK|noun|A1|☕|c
+office|overtime|கூடுதல் நேரம்|kooduthal neram|ˈoʊ.vɚ.taɪm|OH-ver-tym|noun|B1|⏰|u
+office|salary|சம்பளம்|sambalam|ˈsæl.ɚ.i|SAL-uh-ree|noun|A2|💰|c
+office|resume|ரெஸ்யூமே|resume|ˈrez.ə.meɪ|REZ-uh-may|noun|B1|📄|c|CV in Britain|
+office|interview|நேர்காணல்|nerkaanal|ˈɪn.t̬ɚ.vjuː|IN-ter-vyoo|noun|A2|🗣️|c
+office|contract|ஒப்பந்தம்|oppantham|ˈkɑːn.trækt|KAHN-trakt|noun|B1|📜|c
+office|signature|கையொப்பம்|kaiyoppam|ˈsɪɡ.nə.tʃɚ|SIG-nuh-cher|noun|B1|✍️|c
+office|stamp|முத்திரை|muththirai|stæmp|STAMP|noun|A2|📮|c
+tech|phone|தொலைபேசி|tholaipesi|foʊn|FOHN|noun|A1|📱|c||telefoon
+tech|mobile|கைபேசி|kaipesi|ˈmoʊ.bəl|MOH-bul|noun|A1|📱|c
+tech|smartphone|ஸ்மார்ட்போன்|smartphone|ˈsmɑːrt.foʊn|SMART-fohn|noun|A1|📱|c
+tech|call|அழைப்பு|azhaippu|kɔːl|KAWL|noun|A1|📞|c
+tech|message|செய்தி|seythi|ˈmes.ɪdʒ|MES-ij|noun|A1|💬|c||bericht
+tech|text message|குறுஞ்செய்தி|kurunseythi|tekst ˈmes.ɪdʒ|TEKST MES-ij|noun|A1|💬|c
+tech|internet|இணையம்|inaiyam|ˈɪn.t̬ɚ.net|IN-ter-net|noun|A1|🌐|u||internet
+tech|wifi|வைஃபை|wifi|ˈwaɪ.faɪ|WY-fy|noun|A1|📶|u
+tech|app|ஆப்|app|æp|AP|noun|A1|📲|c
+tech|website|இணையதளம்|inaiyathalam|ˈweb.saɪt|WEB-syt|noun|A2|🌐|c
+tech|link|இணைப்பு|inaippu|lɪŋk|LINK|noun|A2|🔗|c
+tech|password|கடவுச்சொல்|kadavuchchol|ˈpæs.wɝːd|PAS-werd|noun|A2|🔑|c
+tech|charger|சார்ஜர்|charger|ˈtʃɑːr.dʒɚ|CHAR-jer|noun|A1|🔌|c
+tech|battery|பேட்டரி|battery|ˈbæt̬.ɚ.i|BAT-uh-ree|noun|A2|🔋|c
+tech|screen|திரை|thirai|skriːn|SKREEN|noun|A1|🖥️|c
+tech|keyboard|விசைப்பலகை|visaippalagai|ˈkiː.bɔːrd|KEE-bord|noun|A2|⌨️|c
+tech|computer mouse|மவுஸ்|mouse|maʊs|MOWS|noun|A2|🖱️|c
+tech|camera|கேமரா|camera|ˈkæm.ɚ.ə|KAM-uh-ruh|noun|A1|📷|c||camera
+tech|photo|புகைப்படம்|pugaippadam|ˈfoʊ.t̬oʊ|FOH-toh|noun|A1|🖼️|c|foto|
+tech|video|வீடியோ|video|ˈvɪd.i.oʊ|VID-ee-oh|noun|A1|🎥|c
+tech|speaker|ஸ்பீக்கர்|speaker|ˈspiː.kɚ|SPEE-ker|noun|A2|🔊|c
+tech|headphones|ஹெட்ஃபோன்|headphone|ˈhed.foʊnz|HED-fohnz|noun|A1|🎧|g
+tech|microphone|மைக்|mic|ˈmaɪ.krə.foʊn|MY-kruh-fohn|noun|A2|🎤|c
+tech|laptop|லேப்டாப்|laptop|ˈlæp.tɑːp|LAP-tahp|noun|A1|💻|c
+tech|tablet|டேப்லெட்|tablet|ˈtæb.lət|TAB-lit|noun|A2|📱|c
+tech|software|மென்பொருள்|menporul|ˈsɑːft.wer|SAHFT-wair|noun|B1|💾|u
+tech|update|புதுப்பிப்பு|puthuppippu|ˈʌp.deɪt|UP-dayt|noun|A2|⬆️|c
+tech|download|பதிவிறக்கம்|pathivirakkam|ˈdaʊn.loʊd|DOWN-lohd|noun|A2|⬇️|c
+tech|upload|பதிவேற்றம்|pathivetram|ˈʌp.loʊd|UP-lohd|noun|B1|⬆️|c
+tech|account|கணக்கு|kanakku|əˈkaʊnt|uh-KOWNT|noun|A2|👤|c
+tech|notification|அறிவிப்பு|arivippu|ˌnoʊ.t̬ə.fəˈkeɪ.ʃən|noh-tuh-fuh-KAY-shun|noun|B1|🔔|c
+tech|settings|அமைப்புகள்|amaippugal|ˈset.ɪŋz|SET-ingz|noun|A2|⚙️|g
+tech|search|தேடல்|thedal|sɝːtʃ|SERCH|noun|A2|🔍|c
+tech|browser|உலாவி|ulaavi|ˈbraʊ.zɚ|BROW-zer|noun|B1|🌐|c
+sports|football|கால்பந்து|kaalpandhu|ˈfʊt.bɔːl|FUT-bawl|noun|A1|⚽|u|In the US football means American football; soccer is the round-ball game|
+sports|soccer|சாக்கர்|soccer|ˈsɑː.kɚ|SAH-ker|noun|A1|⚽|u
+sports|cricket|கிரிக்கெட்|cricket|ˈkrɪk.ɪt|KRIK-it|noun|A1|🏏|u
+sports|tennis|டென்னிஸ்|tennis|ˈten.ɪs|TEN-is|noun|A1|🎾|u
+sports|basketball|பாஸ்கெட்பால்|basketball|ˈbæs.kɪt.bɔːl|BAS-kit-bawl|noun|A1|🏀|u
+sports|volleyball|வாலிபால்|volleyball|ˈvɑː.li.bɔːl|VAH-lee-bawl|noun|A2|🏐|u
+sports|badminton|பேட்மிண்டன்|badminton|ˈbæd.mɪn.tən|BAD-min-tun|noun|A2|🏸|u
+sports|hockey|ஹாக்கி|hockey|ˈhɑː.ki|HAH-kee|noun|A2|🏒|u
+sports|swimming|நீச்சல்|neechal|ˈswɪm.ɪŋ|SWIM-ing|noun|A1|🏊|u||zwemmen
+sports|running|ஓட்டம்|ottam|ˈrʌn.ɪŋ|RUN-ing|noun|A1|🏃|u
+sports|walking|நடை|nadai|ˈwɑː.kɪŋ|WAW-king|noun|A1|🚶|u
+sports|yoga|யோகா|yoga|ˈjoʊ.ɡə|YOH-guh|noun|A1|🧘|u
+sports|gym|ஜிம்|gym|dʒɪm|JIM|noun|A1|🏋️|c
+sports|game|விளையாட்டு|vilaiyaattu|ɡeɪm|GAYM|noun|A1|🎮|c||spel
+sports|team|அணி|ani|tiːm|TEEM|noun|A1|👥|c||team
+sports|player|வீரர்|veerar|ˈpleɪ.ɚ|PLAY-er|noun|A1|🧑|p
+sports|coach|பயிற்சியாளர்|payirchiyaalar|koʊtʃ|KOHCH|noun|A2|🧑|p
+sports|match|போட்டி|potti|mætʃ|MACH|noun|A1|🏆|c
+sports|score|மதிப்பெண்|mathippen|skɔːr|SKOR|noun|A2|🔢|c
+sports|goal|கோல்|goal|ɡoʊl|GOHL|noun|A1|🥅|c
+sports|ball|பந்து|pandhu|bɔːl|BAWL|noun|A1|⚽|c||bal
+sports|bat|மட்டை|mattai|bæt|BAT|noun|A2|🏏|c
+sports|racket|ராக்கெட்|racket|ˈræk.ɪt|RAK-it|noun|A2|🎾|c
+sports|medal|பதக்கம்|pathakkam|ˈmed.əl|MED-ul|noun|A2|🏅|c
+sports|prize|பரிசு|parisu|praɪz|PRYZ|noun|A1|🏆|c
+sports|exercise|உடற்பயிற்சி|udarpayerchi|ˈek.sɚ.saɪz|EK-ser-syz|noun|A2|🏃|u
+sports|race|ஓட்டப்பந்தயம்|ottappandhayam|reɪs|RAYS|noun|A2|🏁|c
+sports|cycling|சைக்கிள் ஓட்டுதல்|cycle ottuthal|ˈsaɪ.klɪŋ|SY-kling|noun|A2|🚴|u
+festivals|Pongal|பொங்கல்|pongal|ˈpɑːŋ.ɡəl|PAHNG-gul|noun|A1|🌾|c
+festivals|Diwali|தீபாவளி|deepavali|dɪˈwɑː.li|di-WAH-lee|noun|A1|🪔|c
+festivals|Christmas|கிறிஸ்துமஸ்|christmas|ˈkrɪs.məs|KRIS-mus|noun|A1|🎄|c||Kerst
+festivals|New Year|புத்தாண்டு|puthaandu|nu jɪr|NOO YEER|noun|A1|🎉|c
+festivals|Tamil New Year|தமிழ் புத்தாண்டு|thamizh puthaandu|ˈtæm.ɪl nu jɪr|TAM-il NOO YEER|noun|A2|🎊|c
+festivals|Eid|ஈத்|eed|iːd|EED|noun|A1|🌙|c
+festivals|Ramadan|ரமலான்|ramalaan|ˌræm.əˈdɑːn|ram-uh-DAHN|noun|A2|🌙|c
+festivals|Holi|ஹோலி|holi|ˈhoʊ.li|HOH-lee|noun|A2|🎨|c
+festivals|Navaratri|நவராத்திரி|navaraathiri|ˌnɑː.vəˈrɑː.tri|nah-vuh-RAH-tree|noun|A2|🪔|c
+festivals|Onam|ஓணம்|onam|ˈoʊ.nəm|OH-num|noun|A2|🌼|c
+festivals|Thanksgiving|தேங்க்ஸ்கிவிங்|thanksgiving|ˌθæŋksˈɡɪv.ɪŋ|thanks-GIV-ing|noun|A2|🦃|c
+festivals|Halloween|ஹாலோவீன்|halloween|ˌhæl.əˈwiːn|hal-uh-WEEN|noun|A2|🎃|c
+festivals|Independence Day|சுதந்திர தினம்|suthanthira thinam|ˌɪn.dɪˈpen.dəns deɪ|in-di-PEN-duns DAY|noun|A2|🇺🇸|c
+festivals|King's Day|அரசர் தினம்|arasar thinam|kɪŋz deɪ|KINGZ DAY|noun|B1|🇳🇱|c
+festivals|Sinterklaas|சிண்டர்கிளாஸ்|sinterklaas|ˌsɪn.tɚˈklɑːs|sin-ter-KLAHS|noun|B1|🎁|c
+festivals|birthday party|பிறந்தநாள் விழா|piranthanaal vizhaa|ˈbɝːθ.deɪ ˈpɑːr.ti|BERTH-day PAR-tee|noun|A1|🎂|c
+festivals|wedding festival|திருமணம்|thirumanam|ˈwed.ɪŋ|WED-ing|noun|A1|💒|c
+festivals|temple|கோயில்|kovil|ˈtem.pəl|TEM-pul|noun|A1|🛕|c
+festivals|church|தேவாலயம்|devaalaayam|tʃɝːtʃ|CHERCH|noun|A1|⛪|c||kerk
+festivals|mosque|மசூதி|masoothi|mɑːsk|MAHSK|noun|A1|🕌|c
+festivals|prayer|பிரார்த்தனை|praarththanai|prer|PRAIR|noun|A2|🙏|c
+festivals|gift|பரிசு|parisu|ɡɪft|GIFT|noun|A1|🎁|c||cadeau
+festivals|candle|மெழுகுவர்த்தி|mezhuguvarththi|ˈkæn.dəl|KAN-dul|noun|A2|🕯️|c
+festivals|fireworks|பட்டாசு|pattaasu|ˈfaɪr.wɝːks|FYR-werks|noun|A2|🎆|g
+festivals|festival|திருவிழா|thiruvizhaa|ˈfes.tə.vəl|FES-tuh-vul|noun|A1|🎉|c
+festivals|celebration|கொண்டாட்டம்|kondaattam|ˌsel.əˈbreɪ.ʃən|sel-uh-BRAY-shun|noun|A2|🥳|c
+festivals|fasting|நோன்பு|nonbu|ˈfæs.tɪŋ|FAS-ting|noun|B1|🌙|u
+festivals|kolam|கோலம்|kolam|ˈkoʊ.lɑːm|KOH-lahm|noun|A2|🌸|c
+festivals|lamp festival|விளக்கு|vilakku|læmp|LAMP|noun|A1|🪔|c

@@ -1,0 +1,263 @@
+# cat|en|ta|tr|ipa|say|pos|cefr|emoji|kind|british|dutch|pred|sEn|sTa|nEn|nTa
+emotions|happy|மகிழ்ச்சி|magizhchi|ˈhæp.i|HAP-ee|adjective|A1|😊|a|||மகிழ்ச்சியாக
+emotions|sad|சோகம்|sogam|sæd|SAD|adjective|A1|😢|a|||சோகமாக
+emotions|angry|கோபம்|kobam|ˈæŋ.ɡri|ANG-gree|adjective|A1|😠|a|||கோபமாக
+emotions|afraid|பயம்|bayam|əˈfreɪd|uh-FRAYD|adjective|A1|😨|a|||பயமாக
+emotions|tired|சோர்வு|sorvu|ˈtaɪ.ɚd|TY-erd|adjective|A1|😴|a|||சோர்வாக
+emotions|calm|அமைதி|amaithi|kɑːm|KAHM|adjective|A1|😌|a|||அமைதியாக
+emotions|excited|உற்சாகம்|urchaagam|ɪkˈsaɪ.t̬ɪd|ik-SY-tid|adjective|A2|🤩|a|||உற்சாகமாக
+emotions|worried|கவலை|kavalai|ˈwɝː.id|WUR-eed|adjective|A2|😟|a|||கவலையாக
+emotions|proud|பெருமை|perumai|praʊd|PROWD|adjective|A2|🥹|a|||பெருமையாக
+emotions|shy|வெட்கம்|vedkam|ʃaɪ|SHY|adjective|A2|🙈|a|||வெட்கமாக
+emotions|lonely|தனிமை|thanimai|ˈloʊn.li|LONE-lee|adjective|A2|😔|a|||தனிமையாக
+emotions|jealous|பொறாமை|poraamai|ˈdʒel.əs|JEL-us|adjective|B1|😒|a|||பொறாமையாக
+emotions|grateful|நன்றி|nanri|ˈɡreɪt.fəl|GRAYT-ful|adjective|B1|🙏|a|||நன்றியுடன்
+emotions|bored|சலிப்பு|salippu|bɔːrd|BORD|adjective|A2|😑|a|||சலிப்பாக
+emotions|confused|குழப்பம்|kuzhappam|kənˈfjuːzd|kun-FYOOZD|adjective|A2|😕|a|||குழப்பமாக
+emotions|nervous|பதற்றம்|padhatram|ˈnɝː.vəs|NUR-vus|adjective|A2|😬|a|||பதற்றமாக
+emotions|relieved|நிம்மதி|nimmathi|rɪˈliːvd|ri-LEEVD|adjective|B1|😮‍💨|a|||நிம்மதியாக
+emotions|ashamed|அவமானம்|avamaanam|əˈʃeɪmd|uh-SHAYMD|adjective|B1|😳|a|||அவமானமாக
+emotions|hopeful|நம்பிக்கை|nambikkai|ˈhoʊp.fəl|HOHP-ful|adjective|B1|🌱|a|||நம்பிக்கையுடன்
+emotions|surprised|ஆச்சரியம்|aachchariyam|sɚˈpraɪzd|ser-PRYZD|adjective|A2|😲|a|||ஆச்சரியமாக
+emotions|love|அன்பு|anbu|lʌv|LUV|noun|A1|❤️|u||liefde
+emotions|joy|ஆனந்தம்|aanandam|dʒɔɪ|JOY|noun|A2|😄|u
+emotions|fear|பயம்|bayam|fɪr|FEER|noun|A2|😱|u
+emotions|anger|கோபம்|kobam|ˈæŋ.ɡɚ|ANG-ger|noun|A2|😡|u
+emotions|peace|சமாதானம்|samadhaanam|piːs|PEES|noun|A2|☮️|u||vrede
+emotions|hope|நம்பிக்கை|nambikkai|hoʊp|HOHP|noun|A2|🌟|u
+emotions|trust|நம்பிக்கை|nambikkai|trʌst|TRUST|noun|B1|🤝|u
+emotions|doubt|சந்தேகம்|sandhegam|daʊt|DOWT|noun|B1|🤔|u
+emotions|courage|தைரியம்|thairiyam|ˈkɝː.ɪdʒ|KUR-ij|noun|B1|🦁|u
+emotions|patience|பொறுமை|porumai|ˈpeɪ.ʃəns|PAY-shuns|noun|B1|⏳|u
+emotions|kindness|கருணை|karunai|ˈkaɪnd.nəs|KYND-nus|noun|A2|🤗|u
+emotions|respect|மரியாதை|mariyaathai|rɪˈspekt|ri-SPEKT|noun|B1|🙇|u
+emotions|guilt|குற்ற உணர்வு|kutra unarvu|ɡɪlt|GILT|noun|B2|😞|u
+emotions|envy|பொறாமை|poraamai|ˈen.vi|EN-vee|noun|B2|😤|u
+emotions|grief|துக்கம்|thukkam|ɡriːf|GREEF|noun|B2|🖤|u
+emotions|comfort|ஆறுதல்|aarudhal|ˈkʌm.fɚt|KUM-fert|noun|B1|🫂|u
+emotions|stress|மன அழுத்தம்|mana azhuththam|stres|STRES|noun|B1|😫|u
+emotions|confidence|தன்னம்பிக்கை|thannambikkai|ˈkɑːn.fə.dəns|KON-fi-dens|noun|B1|💪|u
+emotions|curiosity|ஆர்வம்|aarvam|ˌkjʊr.iˈɑː.sə.ti|kyur-ee-AH-suh-tee|noun|B1|🧐|u
+emotions|sympathy|இரக்கம்|irakkam|ˈsɪm.pə.θi|SIM-puh-thee|noun|B2|💙|u
+dishes|idli|இட்லி|idli|ˈɪd.li|ID-lee|noun|A1|⚪|c
+dishes|dosa|தோசை|dosai|ˈdoʊ.sə|DOH-suh|noun|A1|🥞|c
+dishes|sambar|சாம்பார்|sambar|ˈsɑːm.bɑːr|SAHM-bar|noun|A1|🥣|u
+dishes|rasam|ரசம்|rasam|ˈrɑː.səm|RAH-sum|noun|A1|🍵|u
+dishes|rice|சோறு|soru|raɪs|RYS|noun|A1|🍚|u||rijst
+dishes|pongal|பொங்கல்|pongal|ˈpɑːŋ.ɡəl|PAHNG-gul|noun|A2|🍲|u
+dishes|upma|உப்புமா|uppuma|ˈʊp.mɑː|UP-mah|noun|A2|🥣|u
+dishes|vada|வடை|vadai|ˈvɑː.dɑː|VAH-dah|noun|A1|🍩|c
+dishes|biryani|பிரியாணி|biryani|ˌbɪr.iˈɑː.ni|beer-ee-AH-nee|noun|A1|🍛|u
+dishes|chicken curry|கோழி குழம்பு|kozhi kuzhambu|ˈtʃɪk.ɪn ˈkɝː.i|CHIK-in KUR-ee|noun|A1|🍛|u
+dishes|fish curry|மீன் குழம்பு|meen kuzhambu|fɪʃ ˈkɝː.i|FISH KUR-ee|noun|A2|🐟|u
+dishes|yogurt|தயிர்|thayir|ˈjoʊ.ɡɚt|YOH-gert|noun|A1|🥛|u
+dishes|buttermilk|மோர்|mor|ˈbʌt.ɚ.mɪlk|BUT-er-milk|noun|A2|🥛|u
+dishes|pickle|ஊறுகாய்|urugai|ˈpɪk.əl|PIK-ul|noun|A2|🥒|c
+dishes|chapati|சப்பாத்தி|chappaathi|tʃəˈpɑː.ti|chuh-PAH-tee|noun|A1|🫓|c
+dishes|parotta|பரோட்டா|parotta|pəˈroʊ.t̬ə|puh-ROH-tuh|noun|A1|🫓|c
+dishes|poori|பூரி|poori|ˈpʊr.i|PUUR-ee|noun|A2|🫓|c
+dishes|appam|ஆப்பம்|aappam|ˈɑːp.əm|AHP-um|noun|A2|🥞|c
+dishes|puttu|புட்டு|puttu|ˈpʊt.uː|PUT-too|noun|A2|🍚|u
+dishes|idiappam|இடியாப்பம்|idiyaappam|ˌɪd.iˈɑːp.əm|id-ee-AHP-um|noun|B1|🍜|c
+dishes|payasam|பாயாசம்|paayasam|ˈpɑː.jə.səm|PAH-yuh-sum|noun|A2|🍮|u
+dishes|laddu|லட்டு|laddu|ˈlɑː.duː|LAH-doo|noun|A2|🟡|c
+dishes|filter coffee|பில்டர் காபி|filter kaapi|ˈfɪl.tɚ ˈkɑː.fi|FIL-ter KAW-fee|noun|A1|☕|u
+dishes|tea|தேநீர்|thenir|tiː|TEE|noun|A1|🍵|u||thee
+dishes|bread|ரொட்டி|rotti|bred|BRED|noun|A1|🍞|u||brood
+dishes|butter|வெண்ணெய்|vennai|ˈbʌt.ɚ|BUT-er|noun|A1|🧈|u||boter
+dishes|cheese|சீஸ்|cheese|tʃiːz|CHEEZ|noun|A1|🧀|u||kaas
+dishes|egg|முட்டை|muttai|eɡ|EG|noun|A1|🥚|c||ei
+dishes|omelet|ஆம்லெட்|aamlet|ˈɑːm.lət|AHM-let|noun|A1|🍳|c
+dishes|sandwich|சாண்ட்விச்|sandwich|ˈsænd.wɪtʃ|SAND-wich|noun|A1|🥪|c
+dishes|pizza|பீட்சா|pizza|ˈpiːt.sə|PEET-suh|noun|A1|🍕|c
+dishes|pasta|பாஸ்தா|paastaa|ˈpɑː.stə|PAH-stuh|noun|A1|🍝|u
+dishes|salad|சாலட்|salad|ˈsæl.əd|SAL-ud|noun|A1|🥗|c
+dishes|soup|சூப்|soup|suːp|SOOP|noun|A1|🍲|u||soep
+dishes|steak|ஸ்டேக்|steak|steɪk|STAYK|noun|A2|🥩|c
+dishes|fries|பிரெஞ்ச் ஃப்ரைஸ்|french fries|fraɪz|FRYZ|noun|A1|🍟|p|chips in Britain when they are thick-cut|
+dishes|burger|பர்கர்|burger|ˈbɝː.ɡɚ|BUR-ger|noun|A1|🍔|c
+dishes|pancake|பான்கேக்|pancake|ˈpæn.keɪk|PAN-kayk|noun|A2|🥞|c
+dishes|cereal|தானிய உணவு|thaaniya unavu|ˈsɪr.i.əl|SEER-ee-ul|noun|A2|🥣|u
+dishes|oatmeal|ஓட்ஸ்|oats|ˈoʊt.miːl|OHT-meel|noun|A2|🥣|u
+dishes|bacon|பேகன்|baekan|ˈbeɪ.kən|BAY-kun|noun|A2|🥓|u
+dishes|sausage|சாசேஜ்|sausage|ˈsɑː.sɪdʒ|SAW-sij|noun|A2|🌭|c
+dishes|honey|தேன்|then|ˈhʌn.i|HUN-ee|noun|A1|🍯|u||honing
+dishes|sugar|சர்க்கரை|sakkarai|ˈʃʊɡ.ɚ|SHUG-er|noun|A1|🍬|u||suiker
+dishes|salt|உப்பு|uppu|sɔːlt|SAWLT|noun|A1|🧂|u||zout
+dishes|oil|எண்ணெய்|ennai|ɔɪl|OYL|noun|A1|🫒|u||olie
+dishes|ghee|நெய்|nei|ɡiː|GEE|noun|A2|🧈|u
+dishes|milk|பால்|paal|mɪlk|MILK|noun|A1|🥛|u||melk
+dishes|water|தண்ணீர்|thanneer|ˈwɑː.tɚ|WAW-ter|noun|A1|💧|u||water
+dishes|juice|சாறு|saaru|dʒuːs|JOOS|noun|A1|🧃|u||sap
+dishes|curd rice|தயிர் சோறு|thayir soru|kɝːd raɪs|KERD RYS|noun|A1|🍚|u
+dishes|lemon rice|எலுமிச்சை சோறு|elumichai soru|ˈlem.ən raɪs|LEM-un RYS|noun|A2|🍋|u
+dishes|tamarind rice|புளி சோறு|puli soru|ˈtæm.ɚ.ɪnd raɪs|TAM-uh-rind RYS|noun|A2|🍛|u
+dishes|coconut chutney|தேங்காய் சட்னி|thengai chutney|ˈkoʊ.kə.nʌt ˈtʃʌt.ni|KOH-kuh-nut CHUT-nee|noun|A2|🥥|u
+dishes|mint chutney|புதினா சட்னி|puthina chutney|mɪnt ˈtʃʌt.ni|MINT CHUT-nee|noun|A2|🌿|u
+dishes|poriyal|பொரியல்|poriyal|ˈpoʊ.ri.jəl|POH-ree-yul|noun|B1|🥬|u
+dishes|kootu|கூட்டு|koottu|ˈkuːt.uː|KOOT-too|noun|B1|🍲|u
+dishes|avial|அவியல்|aviyal|ˈɑː.vi.jəl|AH-vee-yul|noun|B1|🥗|u
+dishes|fish fry|மீன் வறுவல்|meen varuval|fɪʃ fraɪ|FISH FRY|noun|A2|🍤|u
+dishes|mutton curry|ஆட்டுக்குறை குழம்பு|aattukari kuzhambu|ˈmʌt.ən ˈkɝː.i|MUT-un KUR-ee|noun|A2|🍛|u
+dishes|egg curry|முட்டை குழம்பு|muttai kuzhambu|eɡ ˈkɝː.i|EG KUR-ee|noun|A2|🍛|u
+dishes|vegetable curry|காய்கறி குழம்பு|kaaykari kuzhambu|ˈvedʒ.tə.bəl ˈkɝː.i|VEJ-tuh-bul KUR-ee|noun|A1|🍛|u
+dishes|noodles|நூடுல்ஸ்|noodles|ˈnuː.dəlz|NOO-dulz|noun|A1|🍜|p
+dishes|fried rice|ஃபிரைட் ரைஸ்|fried rice|fraɪd raɪs|FRYD RYS|noun|A1|🍚|u
+dishes|momos|மோமோஸ்|momos|ˈmoʊ.moʊz|MOH-mohz|noun|A2|🥟|p
+dishes|ice cream|ஐஸ்கிரீம்|ice cream|ˈaɪs.kriːm|AYS-kreem|noun|A1|🍦|u||ijs
+dishes|cake|கேக்|cake|keɪk|KAYK|noun|A1|🍰|c||taart
+dishes|cookie|குக்கீ|cookie|ˈkʊk.i|KUK-ee|noun|A1|🍪|c|biscuit|
+dishes|chocolate|சாக்லேட்|chocolate|ˈtʃɑːk.lət|CHAWK-lut|noun|A1|🍫|u||chocolade
+dishes|candy|மிட்டாய்|mittai|ˈkæn.di|KAN-dee|noun|A1|🍬|u|sweets|
+dishes|jam|ஜாம்|jam|dʒæm|JAM|noun|A2|🍓|u
+dishes|peanut|வேர்க்கடலை|verkadalai|ˈpiː.nʌt|PEE-nut|noun|A2|🥜|c
+dishes|popcorn|பாப்கார்ன்|popcorn|ˈpɑːp.kɔːrn|POP-korn|noun|A2|🍿|u
+dishes|hot dog|ஹாட் டாக்|hot dog|ˈhɑːt ˌdɑːɡ|HAHT dog|noun|A2|🌭|c
+dishes|taco|டாக்கோ|taco|ˈtɑː.koʊ|TAH-koh|noun|A2|🌮|c
+dishes|sushi|சுஷி|sushi|ˈsuː.ʃi|SOO-shee|noun|A2|🍣|u
+dishes|ramen|ராமென்|raamen|ˈrɑː.mən|RAH-mun|noun|A2|🍜|u
+dishes|dumpling|டம்பிளிங்|dumpling|ˈdʌmp.lɪŋ|DUMP-ling|noun|B1|🥟|c
+dishes|grilled chicken|கிரில் சிக்கன்|grill chicken|ɡrɪld ˈtʃɪk.ɪn|GRILD CHIK-in|noun|A2|🍗|u
+dishes|mashed potatoes|பிசைந்த உருளை|pisaindha urulai|mæʃt pəˈteɪ.t̬oʊz|MASHT puh-TAY-tohz|noun|A2|🥔|u
+dishes|apple pie|ஆப்பிள் பை|apple pie|ˈæp.əl paɪ|AP-ul PY|noun|A2|🥧|c
+dishes|donut|டோனட்|donut|ˈdoʊ.nʌt|DOH-nut|noun|A1|🍩|c
+dishes|waffle|வாஃபிள்|waffle|ˈwɑː.fəl|WAH-ful|noun|A2|🧇|c
+dishes|toast|டோஸ்ட்|toast|toʊst|TOHST|noun|A1|🍞|u
+dishes|jam toast|ஜாம் டோஸ்ட்|jam toast|dʒæm toʊst|JAM TOHST|noun|A1|🍞|u
+dishes|boiled egg|வேகவைத்த முட்டை|vegavaitha muttai|bɔɪld eɡ|BOYLD EG|noun|A1|🥚|c
+dishes|scrambled eggs|துருவல் முட்டை|thuruvul muttai|ˈskræm.bəld eɡz|SKRAM-buld EGZ|noun|A2|🍳|p
+dishes|black coffee|பிளாக் காபி|black kaapi|blæk ˈkɑː.fi|BLAK KAW-fee|noun|A2|☕|u
+dishes|green tea|கிரீன் டீ|green tea|ɡriːn tiː|GREEN TEE|noun|A2|🍵|u
+dishes|lemonade|எலுமிச்சை சாறு|elumichai saaru|ˌlem.əˈneɪd|lem-uh-NAYD|noun|A1|🍋|u
+dishes|soda|சோடா|soda|ˈsoʊ.də|SOH-duh|noun|A1|🥤|u
+dishes|lassi|லஸ்ஸி|lassi|ˈlɑː.si|LAH-see|noun|A2|🥛|u
+dishes|kesari|கேசரி|kesari|ˈkeɪ.sər.i|KAY-suh-ree|noun|A2|🍮|u
+dishes|halwa|அல்வா|alvaa|ˈhæl.wɑː|HAL-wah|noun|A2|🍮|u
+dishes|murukku|முறுக்கு|murukku|mʊˈrʊk.uː|mu-RUK-koo|noun|A2|🥨|u
+dishes|bajji|பஜ்ஜி|bajji|ˈbɑː.dʒi|BAH-jee|noun|A2|🍤|c
+dishes|bonda|போண்டா|bonda|ˈboʊn.dɑː|BOHN-dah|noun|A2|🟡|c
+dishes|idiyappam stew|இடியாப்ப சிற்று|idiyaappa sitru|ˈnuː.dəl stuː|NOO-dul STOO|noun|B1|🍜|u
+fruits|apple|ஆப்பிள்|aappil|ˈæp.əl|AP-ul|noun|A1|🍎|c||appel
+fruits|banana|வாழைப்பழம்|vaazhaippazham|bəˈnæn.ə|buh-NAN-uh|noun|A1|🍌|c||banaan
+fruits|orange|ஆரஞ்சு|aranju|ˈɔːr.ɪndʒ|OR-inj|noun|A1|🍊|c||sinaasappel
+fruits|mango|மாம்பழம்|maambazham|ˈmæŋ.ɡoʊ|MANG-goh|noun|A1|🥭|c
+fruits|grape|திராட்சை|thiraatchai|ɡreɪp|GRAYP|noun|A1|🍇|c||druif
+fruits|watermelon|தர்பூசணி|tharboosani|ˈwɑː.tɚˌmel.ən|WAW-ter-mel-un|noun|A1|🍉|c
+fruits|pineapple|அன்னாசி|annaasi|ˈpaɪnˌæp.əl|PYN-ap-ul|noun|A2|🍍|c
+fruits|papaya|பப்பாளி|pappaali|pəˈpaɪ.ə|puh-PY-uh|noun|A2|🧡|c
+fruits|guava|கொய்யா|koyya|ˈɡwɑː.və|GWAH-vuh|noun|A2|🟢|c
+fruits|pomegranate|மாதுளை|maathulai|ˈpɑː.məˌɡræn.ɪt|PAH-muh-gran-it|noun|A2|🔴|c
+fruits|lemon|எலுமிச்சை|elumichai|ˈlem.ən|LEM-un|noun|A1|🍋|c||citroen
+fruits|lime|தேசி|desi|laɪm|LYM|noun|A2|🍋|c
+fruits|strawberry|ஸ்ட்ராபெரி|strawberry|ˈstrɔːˌber.i|STRAW-ber-ee|noun|A1|🍓|c||aardbei
+fruits|blueberry|புளுபெரி|blueberry|ˈbluːˌber.i|BLOO-ber-ee|noun|A2|🫐|c
+fruits|cherry|செர்ரி|cherry|ˈtʃer.i|CHER-ee|noun|A2|🍒|c||kers
+fruits|peach|பீச்|peach|piːtʃ|PEECH|noun|A2|🍑|c||perzik
+fruits|pear|பேரிக்காய்|perikkai|per|PAIR|noun|A2|🍐|c||peer
+fruits|plum|பிளம்|plum|plʌm|PLUM|noun|B1|🟣|c||pruim
+fruits|apricot|ஆப்ரிகாட்|apricot|ˈæp.rɪ.kɑːt|AP-ri-kaht|noun|B1|🟠|c
+fruits|coconut|தேங்காய்|thengaai|ˈkoʊ.kə.nʌt|KOH-kuh-nut|noun|A1|🥥|c||kokosnoot
+fruits|jackfruit|பலாப்பழம்|palaappazham|ˈdʒæk.fruːt|JAK-froot|noun|A2|🟡|c
+fruits|custard apple|சீத்தாப்பழம்|seethaappazham|ˈkʌs.tɚd ˈæp.əl|KUS-terd AP-ul|noun|B1|🟢|c
+fruits|sapota|சப்போட்டா|sappottaa|səˈpoʊ.tə|suh-POH-tuh|noun|B1|🟤|c
+fruits|muskmelon|முலாம்பழம்|mulaampazham|ˈmʌskˌmel.ən|MUSK-mel-un|noun|A2|🍈|c
+fruits|fig|அத்திப்பழம்|athippazham|fɪɡ|FIG|noun|B1|🟣|c||vijg
+fruits|dates|பேரிச்சம்பழம்|pericham pazham|deɪts|DAYTS|noun|A2|🟤|p
+fruits|kiwi|கிவி|kiwi|ˈkiː.wiː|KEE-wee|noun|A2|🥝|c
+fruits|avocado|அவகேடோ|avocado|ˌæv.əˈkɑː.doʊ|av-uh-KAH-doh|noun|A2|🥑|c
+fruits|tomato|தக்காளி|thakkaali|təˈmeɪ.t̬oʊ|tuh-MAY-toh|noun|A1|🍅|c|Americans say tuh-MAY-toh|
+fruits|custard|கஸ்டர்ட்|custard|ˈkʌs.tɚd|KUS-terd|noun|B1|🍮|u
+fruits|raisin|உலர் திராட்சை|ular thiraatchai|ˈreɪ.zən|RAY-zun|noun|A2|🍇|c
+fruits|tamarind|புளி|puli|ˈtæm.ɚ.ɪnd|TAM-uh-rind|noun|A2|🟤|u
+fruits|gooseberry|நெல்லிக்காய்|nellikkaai|ˈɡuːsˌber.i|GOOS-ber-ee|noun|B1|🟢|c
+fruits|wood apple|விளாம்பழம்|vilaampazham|wʊd ˈæp.əl|WUD AP-ul|noun|B2|🟤|c
+fruits|jamun|நாவல் பழம்|naaval pazham|ˈdʒɑː.mən|JAH-mun|noun|B1|🟣|c
+fruits|lychee|லிச்சி|lichi|ˈliː.tʃi|LEE-chee|noun|B1|🔴|c
+fruits|dragon fruit|டிராகன் பழம்|dragon pazham|ˈdræɡ.ən fruːt|DRAG-un FROOT|noun|B1|🐉|c
+fruits|passion fruit|பேஷன் பழம்|passion pazham|ˈpæʃ.ən fruːt|PASH-un FROOT|noun|B1|🟣|c
+fruits|grapefruit|திராட்சைப்பழம்|graapefruit|ˈɡreɪp.fruːt|GRAYP-froot|noun|B1|🍊|c
+fruits|melon|முலாம்|mulaam|ˈmel.ən|MEL-un|noun|A2|🍈|c|meloen|
+vegetables|carrot|கேரட்|carrot|ˈker.ət|KER-ut|noun|A1|🥕|c||wortel
+vegetables|onion|வெங்காயம்|vengaayam|ˈʌn.jən|UN-yun|noun|A1|🧅|c||ui
+vegetables|potato|உருளைக்கிழங்கு|urulaikizhangu|pəˈteɪ.t̬oʊ|puh-TAY-toh|noun|A1|🥔|c||aardappel
+vegetables|tomato|தக்காளி|thakkaali|təˈmeɪ.t̬oʊ|tuh-MAY-toh|noun|A1|🍅|c
+vegetables|cabbage|முட்டைக்கோஸ்|muttaikkos|ˈkæb.ɪdʒ|KAB-ij|noun|A2|🥬|u
+vegetables|cauliflower|காலிஃபிளவர்|cauliflower|ˈkɑː.lɪˌflaʊ.ɚ|KAW-li-flow-er|noun|A2|🥦|c
+vegetables|broccoli|ப்ரோக்கோலி|broccoli|ˈbrɑː.kə.li|BRAH-kuh-lee|noun|A2|🥦|u
+vegetables|spinach|கீரை|keerai|ˈspɪn.ɪtʃ|SPIN-ich|noun|A2|🥬|u
+vegetables|brinjal|கத்திரிக்காய்|kathirikkai|ˈbrɪn.dʒəl|BRIN-jul|noun|A1|🍆|c|eggplant in the US; aubergine in Britain|
+vegetables|okra|வெண்டைக்காய்|vendaikkai|ˈoʊ.krə|OH-kruh|noun|A2|🟢|u
+vegetables|beans|பீன்ஸ்|beans|biːnz|BEENZ|noun|A1|🫘|p
+vegetables|green beans|பச்சை பீன்ஸ்|pachai beans|ɡriːn biːnz|GREEN BEENZ|noun|A2|🟢|p
+vegetables|peas|பட்டாணி|pattaani|piːz|PEEZ|noun|A1|🟢|p
+vegetables|corn|மக்காச்சோளம்|makkaacholam|kɔːrn|KORN|noun|A1|🌽|u
+vegetables|cucumber|வெள்ளரிக்காய்|vellarikkai|ˈkjuː.kʌm.bɚ|KYOO-kum-ber|noun|A1|🥒|c||komkommer
+vegetables|pumpkin|பூசணி|poosani|ˈpʌmp.kɪn|PUMP-kin|noun|A2|🎃|c
+vegetables|bottle gourd|சுரைக்காய்|suraikkai|ˈbɑː.t̬əl ɡɔːrd|BAH-tul GORD|noun|B1|🟢|c
+vegetables|ridge gourd|பீர்க்கங்காய்|peerkangkai|rɪdʒ ɡɔːrd|RIJ GORD|noun|B1|🟢|c
+vegetables|snake gourd|புடலங்காய்|pudalangkai|sneɪk ɡɔːrd|SNAYK GORD|noun|B1|🟢|c
+vegetables|drumstick|முருங்கைக்காய்|murungaikkai|ˈdrʌm.stɪk|DRUM-stik|noun|A2|🌳|c
+vegetables|yam|சேனைக்கிழங்கு|senaikizhangu|jæm|YAM|noun|B1|🟤|c
+vegetables|sweet potato|சர்க்கரை வள்ளிக்கிழங்கு|sakkarai vallikizhangu|ˌswiːt pəˈteɪ.t̬oʊ|SWEET puh-TAY-toh|noun|A2|🍠|c
+vegetables|beetroot|பீட்ரூட்|beetroot|ˈbiːt.ruːt|BEET-root|noun|A2|🟣|c
+vegetables|radish|முள்ளங்கி|mullangi|ˈræd.ɪʃ|RAD-ish|noun|A2|🔴|c
+vegetables|ginger|இஞ்சி|inji|ˈdʒɪn.dʒɚ|JIN-jer|noun|A1|🫚|u
+vegetables|garlic|பூண்டு|poondu|ˈɡɑːr.lɪk|GAR-lik|noun|A1|🧄|u||knoflook
+vegetables|chili|பச்சை மிளகாய்|pachai milagai|ˈtʃɪl.i|CHIL-ee|noun|A1|🌶️|c
+vegetables|capsicum|குடை மிளகாய்|kudai milagai|ˈkæp.sɪ.kəm|KAP-si-kum|noun|A2|🫑|c|bell pepper in the US|
+vegetables|mushroom|காளான்|kaalaan|ˈmʌʃ.ruːm|MUSH-room|noun|A2|🍄|c||paddenstoel
+vegetables|lettuce|லெட்டியூஸ்|lettuce|ˈlet.ɪs|LET-is|noun|A2|🥬|u
+vegetables|celery|செலரி|celery|ˈsel.ɚ.i|SEL-uh-ree|noun|B1|🥬|u
+vegetables|asparagus|அஸ்பாரகஸ்|asparagus|əˈsper.ə.ɡəs|uh-SPER-uh-gus|noun|B1|🌱|u
+vegetables|zucchini|சுக்கினி|zucchini|zuˈkiː.ni|zoo-KEE-nee|noun|A2|🥒|c|courgette in Britain|
+vegetables|eggplant|கத்திரிக்காய்|kathirikkai|ˈeɡ.plænt|EG-plant|noun|A2|🍆|c|aubergine|
+vegetables|coriander leaves|கொத்தமல்லி|kothamalli|ˌkɔːr.iˈæn.dɚ liːvz|kor-ee-AN-der LEEVZ|noun|A2|🌿|p|cilantro in the US|
+vegetables|mint leaves|புதினா|puthina|mɪnt liːvz|MINT LEEVZ|noun|A2|🌿|p
+vegetables|curry leaves|கறிவேப்பிலை|kariveppilai|ˈkɝː.i liːvz|KUR-ee LEEVZ|noun|A2|🍃|p
+vegetables|raw banana|வாழைக்காய்|vaazhaikkai|rɑː bəˈnæn.ə|RAH buh-NAN-uh|noun|A2|🍌|c
+vegetables|plantain|வாழைக்காய்|vaazhaikkai|ˈplæn.tən|PLAN-tun|noun|B1|🍌|c
+vegetables|cluster beans|கொத்தவரங்காய்|kothavarangai|ˈklʌs.tɚ biːnz|KLUS-ter BEENZ|noun|B1|🟢|p
+vegetables|broad beans|அவரைக்காய்|avaraikkai|brɔːd biːnz|BRAWD BEENZ|noun|B1|🫘|p
+vegetables|ivy gourd|கோவைக்காய்|kovaikkai|ˈaɪ.vi ɡɔːrd|EYE-vee GORD|noun|B2|🟢|c
+vegetables|ash gourd|பூசணிக்காய்|poosanikkai|æʃ ɡɔːrd|ASH GORD|noun|B1|⚪|c
+vegetables|turnip|டர்னிப்|turnip|ˈtɝː.nɪp|TUR-nip|noun|B1|⚪|c
+vegetables|leek|லீக்|leek|liːk|LEEK|noun|B2|🧅|c
+vegetables|spring onion|வெங்காயத்தாள்|vengaayathaal|sprɪŋ ˈʌn.jən|SPRING UN-yun|noun|A2|🧅|c|scallion or green onion in the US|
+spices|turmeric|மஞ்சள்|manjal|ˈtɝː.mɚ.ɪk|TER-mer-ik|noun|A2|🟡|u
+spices|cumin|சீரகம்|seeragam|ˈkjuː.mɪn|KYOO-min|noun|A2|🟤|u
+spices|coriander seed|மல்லி|malli|ˈkɔːr.i.æn.dɚ siːd|KOR-ee-an-der SEED|noun|B1|🟤|u
+spices|mustard|கடுகு|kadugu|ˈmʌs.tɚd|MUS-terd|noun|A2|🟡|u
+spices|pepper|மிளகு|milagu|ˈpep.ɚ|PEP-er|noun|A1|⚫|u||peper
+spices|chili powder|மிளகாய் தூள்|milagai thool|ˈtʃɪl.i ˈpaʊ.dɚ|CHIL-ee POW-der|noun|A1|🌶️|u
+spices|fenugreek|வெந்தயம்|vendhayam|ˈfen.jə.ɡriːk|FEN-yuh-greek|noun|B1|🟤|u
+spices|fennel|சோம்பு|sombu|ˈfen.əl|FEN-ul|noun|B1|🟢|u
+spices|cardamom|ஏலக்காய்|elakkai|ˈkɑːr.də.məm|KAR-duh-mum|noun|A2|🟢|c
+spices|clove|கிராம்பு|graambu|kloʊv|KLOHV|noun|A2|🟤|c
+spices|cinnamon|பட்டை|pattai|ˈsɪn.ə.mən|SIN-uh-mun|noun|A2|🟤|u
+spices|bay leaf|பிரிஞ்சி இலை|brinji ilai|beɪ liːf|BAY LEEF|noun|B1|🍃|c
+spices|star anise|அன்னாசி மொக்கு|annasi mokku|stɑːr ˈæn.ɪs|STAR AN-is|noun|B2|⭐|c
+spices|nutmeg|ஜாதிக்காய்|jaathikkai|ˈnʌt.meɡ|NUT-meg|noun|B1|🟤|u
+spices|mace|ஜாதிப்பத்திரி|jaathipathiri|meɪs|MAYS|noun|B2|🟠|u
+spices|saffron|குங்குமப்பூ|kungumappoo|ˈsæf.rɑːn|SAF-rahn|noun|B1|🟠|u
+spices|asafoetida|பெருங்காயம்|perungayam|ˌæs.əˈfet.ɪ.də|as-uh-FET-i-duh|noun|B2|🟡|u
+spices|tamarind|புளி|puli|ˈtæm.ɚ.ɪnd|TAM-uh-rind|noun|A2|🟤|u
+spices|curry powder|கறித்தூள்|karithool|ˈkɝː.i ˈpaʊ.dɚ|KUR-ee POW-der|noun|A2|🟡|u
+spices|garam masala|கரம் மசாலா|garam masala|ɡəˈrɑːm məˈsɑː.lə|guh-RAHM muh-SAH-luh|noun|A2|🟤|u
+spices|black pepper|கருப்பு மிளகு|karuppu milagu|blæk ˈpep.ɚ|BLAK PEP-er|noun|A1|⚫|u
+spices|white pepper|வெள்ளை மிளகு|vellai milagu|waɪt ˈpep.ɚ|WYT PEP-er|noun|B1|⚪|u
+spices|red chili|சிவப்பு மிளகாய்|sivappu milagai|red ˈtʃɪl.i|RED CHIL-ee|noun|A1|🌶️|c
+spices|paprika|பாப்ரிகா|paprika|pəˈpriː.kə|puh-PREE-kuh|noun|B1|🔴|u
+spices|oregano|ஒரிகானோ|oregano|əˈreɡ.ə.noʊ|uh-REG-uh-noh|noun|A2|🌿|u
+spices|basil|துளசி|thulasi|ˈbeɪ.zəl|BAY-zul|noun|A2|🌿|u
+spices|thyme|தைம்|thyme|taɪm|TYM|noun|B1|🌿|u
+spices|rosemary|ரோஸ்மேரி|rosemary|ˈroʊz.mer.i|ROHZ-mer-ee|noun|B1|🌿|u
+spices|parsley|பார்ஸ்லி|parsley|ˈpɑːr.sli|PAR-slee|noun|B1|🌿|u
+spices|vanilla|வெனிலா|vanilla|vəˈnɪl.ə|vuh-NIL-uh|noun|A2|🌸|u
+spices|sesame|எள்|el|ˈses.ə.mi|SES-uh-mee|noun|A2|⚪|u
+spices|poppy seed|கசகசா|kasakasa|ˈpɑː.pi siːd|PAH-pee SEED|noun|B1|⚫|u
+spices|ajwain|ஓமம்|omam|ˈʌdʒ.wɑːn|UJ-wahn|noun|B2|🟤|u
+spices|dried chili|வற்றல் மிளகாய்|vatral milagai|draɪd ˈtʃɪl.i|DRYD CHIL-ee|noun|A2|🌶️|c
+spices|rock salt|கல் உப்பு|kal uppu|rɑːk sɔːlt|RAHK SAWLT|noun|B1|🧂|u
+spices|jaggery|வெல்லம்|vellam|ˈdʒæɡ.ɚ.i|JAG-uh-ree|noun|A2|🟤|u
+spices|coconut oil|தேங்காய் எண்ணெய்|thengaai ennai|ˈkoʊ.kə.nʌt ɔɪl|KOH-kuh-nut OYL|noun|A2|🥥|u
+spices|sesame oil|நல்லெண்ணெய்|nallennai|ˈses.ə.mi ɔɪl|SES-uh-mee OYL|noun|A2|🫒|u

@@ -1,0 +1,282 @@
+body|head|தலை|thalai|hed|HED|noun|A1|🗣️|c||hoofd
+body|hair|முடி|mudi|her|HAIR|noun|A1|💇|u||haar
+body|face|முகம்|mugam|feɪs|FAYS|noun|A1|😊|c||gezicht
+body|eye|கண்|kan|aɪ|EYE|noun|A1|👁️|c||oog
+body|ear|காது|kaathu|ɪr|EER|noun|A1|👂|c||oor
+body|nose|மூக்கு|mookku|noʊz|NOHZ|noun|A1|👃|c||neus
+body|mouth|வாய்|vaai|maʊθ|MOWTH|noun|A1|👄|c||mond
+body|tooth|பல்|pal|tuːθ|TOOTH|noun|A1|🦷|c||tand
+body|tongue|நாக்கு|naakku|tʌŋ|TUNG|noun|A1|👅|c||tong
+body|lip|உதடு|uthadu|lɪp|LIP|noun|A2|👄|c
+body|neck|கழுத்து|kazhuththu|nek|NEK|noun|A1|🧣|c||nek
+body|shoulder|தோள்|thol|ˈʃoʊl.dɚ|SHOHL-der|noun|A2|💪|c||schouder
+body|arm|கை|kai|ɑːrm|ARM|noun|A1|💪|c||arm
+body|elbow|முழங்கை|muzhangai|ˈel.boʊ|EL-boh|noun|A2|💪|c
+body|hand|கை|kai|hænd|HAND|noun|A1|✋|c||hand
+body|finger|விரல்|viral|ˈfɪŋ.ɡɚ|FING-ger|noun|A1|👆|c||vinger
+body|thumb|பெருவிரல்|peruviral|θʌm|THUM|noun|A2|👍|c
+body|nail|நகம்|nagam|neɪl|NAYL|noun|A2|💅|c
+body|chest|மார்பு|maarbu|tʃest|CHEST|noun|A2|🫀|c||borst
+body|back|முதுகு|muthugu|bæk|BAK|noun|A1|🔙|c||rug
+body|stomach|வயிறு|vayiru|ˈstʌm.ək|STUM-uk|noun|A1|🫃|c||maag
+body|waist|இடுப்பு|iduppu|weɪst|WAYST|noun|A2|📏|c
+body|hip|இடுப்பு|iduppu|hɪp|HIP|noun|A2|🦴|c
+body|leg|கால்|kaal|leɡ|LEG|noun|A1|🦵|c||been
+body|knee|முழங்கால்|muzhangaal|niː|NEE|noun|A1|🦵|c||knie
+body|ankle|கணுக்கால்|kanukkaal|ˈæŋ.kəl|ANG-kul|noun|B1|🦵|c
+body|foot|பாதம்|paatham|fʊt|FUT|noun|A1|🦶|c||voet
+body|toe|கால் விரல்|kaal viral|toʊ|TOH|noun|A2|🦶|c
+body|skin|தோல்|thol|skɪn|SKIN|noun|A1|🧴|u||huid
+body|bone|எலும்பு|elumbu|boʊn|BOHN|noun|A2|🦴|c||bot
+body|blood|இரத்தம்|iraththam|blʌd|BLUD|noun|A2|🩸|u||bloed
+body|heart|இதயம்|idhayam|hɑːrt|HART|noun|A1|❤️|c||hart
+body|brain|மூளை|moolai|breɪn|BRAYN|noun|A2|🧠|c||brein
+body|lung|நுரையீரல்|nuraiyiral|lʌŋ|LUNG|noun|B1|🫁|c
+body|liver|கல்லீரல்|kalliral|ˈlɪv.ɚ|LIV-er|noun|B1|🫀|c
+body|kidney|சிறுநீரகம்|siruneeragam|ˈkɪd.ni|KID-nee|noun|B1|🫀|c
+body|muscle|தசை|thasai|ˈmʌs.əl|MUS-ul|noun|A2|💪|c||spier
+body|voice|குரல்|kural|vɔɪs|VOYS|noun|A1|🗣️|c||stem
+body|breath|மூச்சு|moochu|breθ|BRETH|noun|A2|💨|u
+body|sweat|வியர்வை|viyarvai|swet|SWET|noun|A2|💦|u
+body|tear|கண்ணீர்|kanneer|tɪr|TEER|noun|A2|😢|c
+body|beard|தாடி|thaadi|bɪrd|BEERD|noun|A2|🧔|c
+body|mustache|மீசை|meesai|ˈmʌs.tæʃ|MUS-tash|noun|A2|🧔|c
+body|forehead|நெற்றி|netri|ˈfɔːr.hed|FOR-hed|noun|A2|🙂|c
+body|cheek|கன்னம்|kannam|tʃiːk|CHEEK|noun|A2|😊|c
+body|chin|மோவாய்|movai|tʃɪn|CHIN|noun|A2|🙂|c
+health|pain|வலி|vali|peɪn|PAYN|noun|A1|😣|u||pijn
+health|fever|காய்ச்சல்|kaaychal|ˈfiː.vɚ|FEE-ver|noun|A1|🤒|c
+health|cold|சளி|sali|koʊld|KOHLD|noun|A1|🤧|c
+health|cough|இருமல்|irumal|kɔːf|KAWF|noun|A1|😷|c||hoest
+health|headache|தலைவலி|thalaivali|ˈhed.eɪk|HED-ayk|noun|A1|🤕|c
+health|stomachache|வயிற்றுவலி|vayitruvali|ˈstʌm.ək eɪk|STUM-uk ayk|noun|A1|🤢|c
+health|toothache|பல்வலி|palvali|ˈtuːθ.eɪk|TOOTH-ayk|noun|A1|🦷|c
+health|medicine|மருந்து|marundhu|ˈmed.ə.sən|MED-uh-sun|noun|A1|💊|u||medicijn
+health|pill|மாத்திரை|maaththirai|pɪl|PIL|noun|A1|💊|c
+health|doctor|மருத்துவர்|maruththuvar|ˈdɑːk.tɚ|DAHK-ter|noun|A1|🧑‍⚕️|p||dokter
+health|nurse|செவிலியர்|seviliyar|nɝːs|NERS|noun|A1|👩‍⚕️|p
+health|hospital|மருத்துவமனை|maruththuvamanai|ˈhɑː.spɪ.t̬əl|HAH-spi-tul|noun|A1|🏥|c||ziekenhuis
+health|clinic|மருந்தகம்|marundhagam|ˈklɪn.ɪk|KLIN-ik|noun|A2|🏥|c
+health|pharmacy|மருந்தகம்|marundhagam|ˈfɑːr.mə.si|FAR-muh-see|noun|A2|💊|c|chemist|
+health|appointment|சந்திப்பு|sandhippu|əˈpɔɪnt.mənt|uh-POYNT-munt|noun|A2|📅|c||afspraak
+health|prescription|மருந்துச் சீட்டு|marundhuch cheettu|prɪˈskrɪp.ʃən|pri-SKRIP-shun|noun|B1|📝|c
+health|allergy|ஒவ்வாமை|ovvaamai|ˈæl.ɚ.dʒi|AL-er-jee|noun|B1|🤧|c
+health|asthma|ஆஸ்துமா|aasthumaa|ˈæz.mə|AZ-muh|noun|B1|🫁|u
+health|diabetes|நீரிழிவு|neerizhivu|ˌdaɪ.əˈbiː.t̬iz|dy-uh-BEE-teez|noun|B1|🩸|u
+health|blood pressure|இரத்த அழுத்தம்|iraththa azhuththam|blʌd ˈpreʃ.ɚ|BLUD PRESH-er|noun|B1|💓|u
+health|injury|காயம்|kaayam|ˈɪn.dʒɚ.i|IN-juh-ree|noun|A2|🩹|c
+health|wound|காயம்|kaayam|wuːnd|WOOND|noun|B1|🩹|c
+health|bandage|கட்டு|kattu|ˈbæn.dɪdʒ|BAN-dij|noun|A2|🩹|c
+health|injection|ஊசி|oosi|ɪnˈdʒek.ʃən|in-JEK-shun|noun|A2|💉|c
+health|vaccine|தடுப்பூசி|thaduppoosi|vækˈsiːn|vak-SEEN|noun|B1|💉|c
+health|surgery|அறுவை சிகிச்சை|aruvai sigichai|ˈsɝː.dʒɚ.i|SER-juh-ree|noun|B1|🏥|c
+health|ambulance|ஆம்புலன்ஸ்|ambulance|ˈæm.bjə.ləns|AM-byuh-luns|noun|A2|🚑|c
+health|emergency|அவசரம்|avasaram|ɪˈmɝː.dʒən.si|i-MER-jun-see|noun|A2|🚨|c||noodgeval
+health|rest|ஓய்வு|oyvu|rest|REST|noun|A1|😴|u||rust
+health|exercise|உடற்பயிற்சி|udarpayerchi|ˈek.sɚ.saɪz|EK-ser-syz|noun|A2|🏃|u
+health|diet|உணவு கட்டுப்பாடு|unavu kattuppaadu|ˈdaɪ.ət|DY-ut|noun|B1|🥗|c
+health|sleep|தூக்கம்|thookkam|sliːp|SLEEP|noun|A1|😴|u||slaap
+health|insomnia|தூக்கமின்மை|thookkaminmai|ɪnˈsɑːm.ni.ə|in-SAHM-nee-uh|noun|B2|😵|u
+health|dizziness|தலைச்சுற்றல்|thalaichutral|ˈdɪz.i.nəs|DIZ-ee-nus|noun|B1|💫|u
+health|nausea|குமட்டல்|kumattal|ˈnɑː.zi.ə|NAW-zee-uh|noun|B2|🤢|u
+health|infection|தொற்று|thotru|ɪnˈfek.ʃən|in-FEK-shun|noun|B1|🦠|c
+health|vitamin|வைட்டமின்|vitamin|ˈvaɪ.t̬ə.mɪn|VY-tuh-min|noun|A2|💊|c
+health|first aid|முதலுதவி|muthaluthavi|fɝːst eɪd|FERST AYD|noun|B1|🩹|u
+family|mother|அம்மா|amma|ˈmʌð.ɚ|MUTH-er|noun|A1|👩|r||moeder
+family|father|அப்பா|appa|ˈfɑː.ðɚ|FAH-ther|noun|A1|👨|r||vader
+family|mom|அம்மா|amma|mɑːm|MAHM|noun|A1|👩|r|mum|
+family|dad|அப்பா|appa|dæd|DAD|noun|A1|👨|r
+family|parent|பெற்றோர்|petraor|ˈper.ənt|PER-unt|noun|A1|👪|r
+family|parents|பெற்றோர்|petraor|ˈper.ənts|PER-unts|noun|A1|👪|g
+family|son|மகன்|magan|sʌn|SUN|noun|A1|👦|r||zoon
+family|daughter|மகள்|magal|ˈdɑː.tɚ|DAW-ter|noun|A1|👧|r||dochter
+family|brother|அண்ணன்|annan|ˈbrʌð.ɚ|BRUTH-er|noun|A1|👦|r||broer
+family|sister|அக்கா|akkaa|ˈsɪs.tɚ|SIS-ter|noun|A1|👧|r||zus
+family|younger brother|தம்பி|thambi|ˈjʌŋ.ɡɚ ˈbrʌð.ɚ|YUNG-ger BRUTH-er|noun|A1|👦|r
+family|younger sister|தங்கை|thangai|ˈjʌŋ.ɡɚ ˈsɪs.tɚ|YUNG-ger SIS-ter|noun|A1|👧|r
+family|grandmother|பாட்டி|paatti|ˈɡrændˌmʌð.ɚ|GRAND-muth-er|noun|A1|👵|r||oma
+family|grandfather|தாத்தா|thaaththaa|ˈɡrændˌfɑː.ðɚ|GRAND-fah-ther|noun|A1|👴|r||opa
+family|grandma|பாட்டி|paatti|ˈɡræn.mɑː|GRAN-mah|noun|A1|👵|r
+family|grandpa|தாத்தா|thaaththaa|ˈɡræn.pɑː|GRAN-pah|noun|A1|👴|r
+family|baby|குழந்தை|kuzhandhai|ˈbeɪ.bi|BAY-bee|noun|A1|👶|c||baby
+family|child|குழந்தை|kuzhandhai|tʃaɪld|CHYLD|noun|A1|🧒|c||kind
+family|husband|கணவன்|kanavan|ˈhʌz.bənd|HUZ-bund|noun|A1|👨|r||man
+family|wife|மனைவி|manaivi|waɪf|WYF|noun|A1|👩|r||vrouw
+family|uncle|மாமா|maamaa|ˈʌŋ.kəl|UNG-kul|noun|A1|👨|r||oom
+family|aunt|அத்தை|aththai|ænt|ANT|noun|A1|👩|r||tante
+family|cousin|உறவினர்|uravinar|ˈkʌz.ən|KUZ-un|noun|A2|🧑|r
+family|nephew|மருமகன்|marumagan|ˈnef.juː|NEF-yoo|noun|B1|👦|r
+family|niece|மருமகள்|marumagal|niːs|NEES|noun|B1|👧|r
+family|family|குடும்பம்|kudumbam|ˈfæm.ə.li|FAM-uh-lee|noun|A1|👨‍👩‍👧|c||familie
+family|relative|உறவினர்|uravinar|ˈrel.ə.t̬ɪv|REL-uh-tiv|noun|A2|🧑|c
+family|neighbor|அண்டைவீட்டார்|andaiveettaar|ˈneɪ.bɚ|NAY-ber|noun|A1|🏡|c|neighbour|
+family|friend|நண்பர்|nanban|frend|FREND|noun|A1|🤝|c||vriend
+family|guest|விருந்தினர்|virunthinar|ɡest|GEST|noun|A2|🫡|c||gast
+family|in-laws|மாமனார் வீட்டார்|maamanaar veettaar|ˈɪn lɔːz|IN lawz|noun|B1|👪|g
+family|wedding|திருமணம்|thirumanam|ˈwed.ɪŋ|WED-ing|noun|A2|💒|c||bruiloft
+family|marriage|திருமணம்|thirumanam|ˈmer.ɪdʒ|MER-ij|noun|A2|💍|c||huwelijk
+family|engagement|நிச்சயதார்த்தம்|nichayathaaratham|ɪnˈɡeɪdʒ.mənt|in-GAYJ-munt|noun|B1|💍|c
+home|house|வீடு|veedu|haʊs|HOWS|noun|A1|🏠|c||huis
+home|apartment|அபார்ட்மெண்ட்|apartment|əˈpɑːrt.mənt|uh-PART-munt|noun|A2|🏢|c|flat|
+home|room|அறை|arai|ruːm|ROOM|noun|A1|🚪|c||kamer
+home|bedroom|படுக்கையறை|padukkaiyarai|ˈbed.ruːm|BED-room|noun|A1|🛏️|c
+home|bathroom|குளியலறை|kuliyalarai|ˈbæθ.ruːm|BATH-room|noun|A1|🛁|c
+home|kitchen|சமையலறை|samayalarai|ˈkɪtʃ.ən|KICH-un|noun|A1|🍳|c||keuken
+home|hall|கூடம்|koodam|hɔːl|HAWL|noun|A1|🛋️|c
+home|living room|வரவேற்பறை|varaverparai|ˈlɪv.ɪŋ ruːm|LIV-ing ROOM|noun|A1|🛋️|c
+home|door|கதவு|kathavu|dɔːr|DOR|noun|A1|🚪|c||deur
+home|window|ஜன்னல்|jannal|ˈwɪn.doʊ|WIN-doh|noun|A1|🪟|c||raam
+home|wall|சுவர்|suvar|wɔːl|WAWL|noun|A1|🧱|c||muur
+home|floor|தரை|tharai|flɔːr|FLOR|noun|A1|🧹|c||vloer
+home|ceiling|மேற்கூரை|merkoorai|ˈsiː.lɪŋ|SEE-ling|noun|A2|🏠|c
+home|roof|கூரை|koorai|ruːf|ROOF|noun|A1|🏠|c||dak
+home|stairs|படிக்கட்டு|padikkattu|sterz|STAIRZ|noun|A1|🪜|g
+home|bed|படுக்கை|padukkai|bed|BED|noun|A1|🛏️|c||bed
+home|pillow|தலையணை|thalaiyannai|ˈpɪl.oʊ|PIL-oh|noun|A1|🛏️|c
+home|blanket|போர்வை|porvai|ˈblæŋ.kɪt|BLANG-kit|noun|A1|🛏️|c
+home|sheet|விரிப்பு|virippu|ʃiːt|SHEET|noun|A2|🛏️|c
+home|mattress|மெத்தை|methai|ˈmæ.trəs|MAT-rus|noun|A2|🛏️|c
+home|sofa|சோபா|sofa|ˈsoʊ.fə|SOH-fuh|noun|A1|🛋️|c||bank
+home|chair|நாற்காலி|naarkaali|tʃer|CHAIR|noun|A1|🪑|c||stoel
+home|table|மேசை|mesai|ˈteɪ.bəl|TAY-bul|noun|A1|🪵|c||tafel
+home|lamp|விளக்கு|vilakku|læmp|LAMP|noun|A1|💡|c||lamp
+home|light|விளக்கு|vilakku|laɪt|LYT|noun|A1|💡|c||licht
+home|fan|விசிறி|visiri|fæn|FAN|noun|A1|🌀|c
+home|air conditioner|ஏசி|aesi|er kənˈdɪʃ.ən.ɚ|AIR kun-DISH-uh-ner|noun|A2|❄️|c
+home|curtain|திரை|thirai|ˈkɝː.t̬ən|KER-tun|noun|A2|🪟|c
+home|mirror|கண்ணாடி|kannaadi|ˈmɪr.ɚ|MEER-er|noun|A1|🪞|c||spiegel
+home|clock|கடிகாரம்|kadigaaram|klɑːk|KLAHK|noun|A1|🕐|c||klok
+home|key|சாவி|saavi|kiː|KEE|noun|A1|🔑|c||sleutel
+home|lock|பூட்டு|poottu|lɑːk|LAHK|noun|A2|🔒|c||slot
+home|switch|சுவிட்ச்|switch|swɪtʃ|SWICH|noun|A2|💡|c
+home|plug|பிளக்|plug|plʌɡ|PLUG|noun|A2|🔌|c
+home|bucket|வாளி|vaali|ˈbʌk.ɪt|BUK-it|noun|A1|🪣|c
+home|broom|துடைப்பம்|thudaippam|bruːm|BROOM|noun|A1|🧹|c
+home|mop|மப்|mop|mɑːp|MAHP|noun|A2|🧹|c
+home|soap|சோப்பு|soppu|soʊp|SOHP|noun|A1|🧼|u||zeep
+home|towel|துண்டு|thundu|ˈtaʊ.əl|TOW-ul|noun|A1|🧺|c||handdoek
+home|toilet|கழிவறை|kazhivarai|ˈtɔɪ.lət|TOY-lut|noun|A1|🚽|c||toilet
+home|sink|வாஷ் பேசின்|wash basin|sɪŋk|SINGK|noun|A2|🚰|c
+home|shower|ஷவர்|shower|ˈʃaʊ.ɚ|SHOW-er|noun|A1|🚿|c||douche
+home|tap|குழாய்|kuzhaai|tæp|TAP|noun|A1|🚰|c|faucet in the US is more common; tap is also understood|
+home|trash|குப்பை|kuppai|træʃ|TRASH|noun|A1|🗑️|u|rubbish|
+home|yard|முற்றம்|mutram|jɑːrd|YARD|noun|A2|🌿|c|garden in Britain often means the yard|
+home|gate|கேட்|gate|ɡeɪt|GAYT|noun|A1|🚪|c||hek
+home|balcony|பால்கனி|balcony|ˈbæl.kə.ni|BAL-kuh-nee|noun|A2|🌇|c
+home|rent|வாடகை|vaadagai|rent|RENT|noun|A2|🏠|u||huur
+home|landlord|வீட்டு உரிமையாளர்|veettu urimaiyaalar|ˈlænd.lɔːrd|LAND-lord|noun|B1|🧑|p
+kitchen|pot|பானை|paanai|pɑːt|PAHT|noun|A1|🍲|c
+kitchen|pan|வாணலி|vaanali|pæn|PAN|noun|A1|🍳|c||pan
+kitchen|frying pan|வறுக்கும் சட்டி|varukkum satti|ˈfraɪ.ɪŋ pæn|FRY-ing PAN|noun|A1|🍳|c
+kitchen|lid|மூடி|moodi|lɪd|LID|noun|A2|🍲|c
+kitchen|spoon|கரண்டி|karandi|spuːn|SPOON|noun|A1|🥄|c||lepel
+kitchen|fork|முள்கரண்டி|mulkarandi|fɔːrk|FORK|noun|A1|🍴|c||vork
+kitchen|knife|கத்தி|kathi|naɪf|NYF|noun|A1|🔪|c||mes
+kitchen|plate|தட்டு|thattu|pleɪt|PLAYT|noun|A1|🍽️|c||bord
+kitchen|bowl|கிண்ணம்|kinnam|boʊl|BOHL|noun|A1|🥣|c||kom
+kitchen|cup|கோப்பை|koppai|kʌp|KUP|noun|A1|🥤|c||kop
+kitchen|glass|டம்ளர்|tumbler|ɡlæs|GLAS|noun|A1|🥛|c||glas
+kitchen|bottle|பாட்டில்|paattil|ˈbɑː.t̬əl|BAH-tul|noun|A1|🍼|c||fles
+kitchen|jug|ஜக்|jug|dʒʌɡ|JUG|noun|A2|🫙|c
+kitchen|stove|அடுப்பு|aduppu|stoʊv|STOHV|noun|A1|🔥|c|cooker or hob|
+kitchen|oven|ஓவன்|oven|ˈʌv.ən|UV-un|noun|A2|🔥|c||oven
+kitchen|microwave|மைக்ரோவேவ்|microwave|ˈmaɪ.kroʊ.weɪv|MY-kroh-wayv|noun|A2|📻|c
+kitchen|fridge|பிரிட்ஜ்|fridge|frɪdʒ|FRIJ|noun|A1|🧊|c
+kitchen|freezer|ஃப்ரீசர்|freezer|ˈfriː.zɚ|FREE-zer|noun|A2|🧊|c
+kitchen|mixer|மிக்ஸி|mixie|ˈmɪk.sɚ|MIK-ser|noun|A2|🥣|c
+kitchen|blender|பிளெண்டர்|blender|ˈblen.dɚ|BLEN-der|noun|A2|🥤|c
+kitchen|gas|கேஸ்|gas|ɡæs|GAS|noun|A1|🔥|u|gas for cooking; petrol is British for car fuel|
+kitchen|cylinder|சிலிண்டர்|cylinder|ˈsɪl.ən.dɚ|SIL-un-der|noun|A2|🔥|c
+kitchen|match|தீக்குச்சி|theekkuchi|mætʃ|MACH|noun|A2|🔥|c
+kitchen|lighter|லைட்டர்|lighter|ˈlaɪ.t̬ɚ|LY-ter|noun|A2|🔥|c
+kitchen|cutting board|வெட்டும் பலகை|vettum palagai|ˈkʌt.ɪŋ bɔːrd|KUT-ing BORD|noun|A2|🔪|c
+kitchen|grater|துருவி|thuruvi|ˈɡreɪ.t̬ɚ|GRAY-ter|noun|B1|🧀|c
+kitchen|ladle|கரண்டி|karandi|ˈleɪ.dəl|LAY-dul|noun|A2|🥄|c
+kitchen|tongs|இடுக்கி|idukki|tɑːŋz|TAHNGZ|noun|B1|🥢|g
+kitchen|strainer|வடிகட்டி|vadikatti|ˈstreɪ.nɚ|STRAY-ner|noun|B1|🍜|c
+kitchen|container|டப்பா|dappa|kənˈteɪ.nɚ|kun-TAY-ner|noun|A2|🥡|c
+kitchen|jar|ஜாடி|jaadi|dʒɑːr|JAR|noun|A2|🫙|c
+kitchen|tray|தட்டு|thattu|treɪ|TRAY|noun|A2|🍽️|c
+kitchen|napkin|துடைக்கும் துணி|thudaikkum thuni|ˈnæp.kɪn|NAP-kin|noun|A2|🧻|c
+kitchen|dish soap|பாத்திரம் சோப்பு|paathiram soppu|dɪʃ soʊp|DISH SOHP|noun|A2|🧼|u
+kitchen|sponge|ஸ்பாஞ்ச்|sponge|spʌndʒ|SPUNJ|noun|A2|🧽|c
+kitchen|trash can|குப்பைத் தொட்டி|kuppaith thotti|træʃ kæn|TRASH KAN|noun|A1|🗑️|c|bin|
+kitchen|recipe|செய்முறை|seymurai|ˈres.ə.pi|RES-uh-pee|noun|A2|📖|c
+kitchen|ingredient|பொருள்|porul|ɪnˈɡriː.di.ənt|in-GREE-dee-unt|noun|B1|🧂|c
+clothes|shirt|சட்டை|sattai|ʃɝːt|SHERT|noun|A1|👕|c||overhemd
+clothes|t-shirt|டீ-ஷர்ட்|t-shirt|ˈtiː.ʃɝːt|TEE-shert|noun|A1|👕|c
+clothes|pants|பேன்ட்|pant|pænts|PANTS|noun|A1|👖|g|trousers|
+clothes|jeans|ஜீன்ஸ்|jeans|dʒiːnz|JEENZ|noun|A1|👖|g
+clothes|shorts|ஷார்ட்ஸ்|shorts|ʃɔːrts|SHORTS|noun|A1|🩳|g
+clothes|dress|உடை|udai|dres|DRES|noun|A1|👗|c||jurk
+clothes|skirt|ஸ்கர்ட்|skirt|skɝːt|SKERT|noun|A1|👗|c
+clothes|sari|சேலை|selai|ˈsɑː.ri|SAH-ree|noun|A1|🥻|c
+clothes|blouse|ரவிக்கை|ravikkai|blaʊs|BLOWS|noun|A2|👚|c
+clothes|dhoti|வேட்டி|vetti|ˈdoʊ.ti|DOH-tee|noun|A2|🩳|c
+clothes|lungi|லுங்கி|lungi|ˈlʊŋ.ɡi|LUNG-gee|noun|A2|🩳|c
+clothes|shawl|சால்வை|saalvai|ʃɔːl|SHAWL|noun|A2|🧣|c
+clothes|scarf|ஸ்கார்ஃப்|scarf|skɑːrf|SKARF|noun|A2|🧣|c
+clothes|sweater|ஸ்வெட்டர்|sweater|ˈswet.ɚ|SWET-er|noun|A1|🧥|c|jumper|
+clothes|jacket|ஜாக்கெட்|jacket|ˈdʒæk.ɪt|JAK-it|noun|A1|🧥|c||jas
+clothes|coat|கோட்|coat|koʊt|KOHT|noun|A1|🧥|c||jas
+clothes|raincoat|மழைக்கோட்|mazhaikkot|ˈreɪn.koʊt|RAYN-koht|noun|A2|🧥|c
+clothes|shoes|காலணி|kaalani|ʃuːz|SHOOZ|noun|A1|👟|g||schoenen
+clothes|sandals|செருப்பு|seruppu|ˈsæn.dəlz|SAN-dulz|noun|A1|🩴|g
+clothes|slippers|செருப்பு|seruppu|ˈslɪp.ɚz|SLIP-erz|noun|A1|🩴|g
+clothes|socks|சாக்ஸ்|socks|sɑːks|SAHKS|noun|A1|🧦|g
+clothes|hat|தொப்பி|thoppi|hæt|HAT|noun|A1|🎩|c||hoed
+clothes|cap|தொப்பி|thoppi|kæp|KAP|noun|A1|🧢|c
+clothes|belt|பெல்ட்|belt|belt|BELT|noun|A2|🧷|c
+clothes|tie|டை|tie|taɪ|TY|noun|A2|👔|c
+clothes|uniform|சீருடை|seerudai|ˈjuː.nə.fɔːrm|YOO-nuh-form|noun|A2|👔|c
+clothes|pocket|பை|pai|ˈpɑː.kɪt|PAH-kit|noun|A2|👖|c
+clothes|button|பொத்தான்|poththaan|ˈbʌt.ən|BUT-un|noun|A2|🔘|c
+clothes|zipper|ஜிப்|zip|ˈzɪp.ɚ|ZIP-er|noun|A2|🤐|c|zip|
+clothes|gloves|கையுறை|kaiyurai|ɡlʌvz|GLUVZ|noun|A2|🧤|g
+clothes|underwear|உள்ளாடை|ullaadai|ˈʌn.dɚ.wer|UN-der-wair|noun|A2|🩲|u
+clothes|bra|பிரா|bra|brɑː|BRAH|noun|B1|👙|c
+clothes|pajamas|பைஜாமா|paijaamaa|pəˈdʒɑː.məz|puh-JAH-muz|noun|A1|🛌|g
+clothes|suit|சூட்|suit|suːt|SOOT|noun|A2|🤵|c||pak
+clothes|jewelry|நகை|nagai|ˈdʒuː.əl.ri|JOO-ul-ree|noun|A2|💍|u
+clothes|ring|மோதிரம்|mothiram|rɪŋ|RING|noun|A2|💍|c||ring
+clothes|necklace|ஹார்|haar|ˈnek.ləs|NEK-lus|noun|A2|📿|c
+clothes|earring|காதணி|kaathani|ˈɪr.ɪŋ|EER-ing|noun|A2|💎|c
+clothes|bangle|வளையல்|valaiyal|ˈbæŋ.ɡəl|BANG-gul|noun|A2|⭕|c
+clothes|watch|கைக்கடிகாரம்|kaikkadigaaram|wɑːtʃ|WAHCH|noun|A1|⌚|c||horloge
+clothes|glasses|கண்ணாடி|kannaadi|ˈɡlæs.ɪz|GLAS-iz|noun|A1|👓|g
+colors|red|சிவப்பு|sivappu|red|RED|adjective|A1|🔴|a|||சிவப்பாக
+colors|blue|நீலம்|neelam|bluː|BLOO|adjective|A1|🔵|a|||நீலமாக
+colors|green|பச்சை|pachchai|ɡriːn|GREEN|adjective|A1|🟢|a|||பச்சையாக
+colors|yellow|மஞ்சள்|manjal|ˈjel.oʊ|YEL-oh|adjective|A1|🟡|a|||மஞ்சளாக
+colors|orange|ஆரஞ்சு|aranju|ˈɔːr.ɪndʒ|OR-inj|adjective|A1|🟠|a|||ஆரஞ்சு நிறமாக
+colors|purple|ஊதா|ootha|ˈpɝː.pəl|PER-pul|adjective|A1|🟣|a|||ஊதாவாக
+colors|pink|இளஞ்சிவப்பு|ilanchivappu|pɪŋk|PINK|adjective|A1|🩷|a|||இளஞ்சிவப்பாக
+colors|black|கருப்பு|karuppu|blæk|BLAK|adjective|A1|⚫|a|||கருப்பாக
+colors|white|வெள்ளை|vellai|waɪt|WYT|adjective|A1|⚪|a|||வெள்ளையாக
+colors|brown|பழுப்பு|pazhuppu|braʊn|BROWN|adjective|A1|🟤|a|||பழுப்பாக
+colors|gray|சாம்பல்|saambal|ɡreɪ|GRAY|adjective|A1|🩶|a|||சாம்பலாக
+colors|gold|தங்கம்|thangam|ɡoʊld|GOHLD|noun|A1|🥇|u
+colors|silver|வெள்ளி|velli|ˈsɪl.vɚ|SIL-ver|noun|A1|🥈|u
+colors|beige|பீஜ்|beige|beɪʒ|BAYZH|adjective|B1|🟫|a|||பீஜ் ஆக
+colors|navy|கருநீலம்|karuneelam|ˈneɪ.vi|NAY-vee|adjective|B1|🔵|a|||கருநீலமாக
+colors|maroon|மெரூன்|maroon|məˈruːn|muh-ROON|adjective|B1|🟥|a|||மெரூன் ஆக
+colors|light|வெளிர்|velir|laɪt|LYT|adjective|A2|🌤️|a|||வெளிராக
+colors|dark|கருமை|karumai|dɑːrk|DARK|adjective|A2|🌑|a|||கருமையாக
+colors|bright|பிரகாசம்|piragaasam|braɪt|BRYT|adjective|A2|✨|a|||பிரகாசமாக
+colors|color|நிறம்|niram|ˈkʌl.ɚ|KUL-er|noun|A1|🎨|c|colour|
+shapes|circle|வட்டம்|vattam|ˈsɝː.kəl|SER-kul|noun|A1|⭕|c||cirkel
+shapes|square|சதுரம்|sathuram|skwer|SKWAIR|noun|A1|⬜|c||vierkant
+shapes|triangle|முக்கோணம்|mukkonam|ˈtraɪ.æŋ.ɡəl|TRY-ang-gul|noun|A1|🔺|c||driehoek
+shapes|rectangle|செவ்வகம்|sevvaagam|ˈrek.tæŋ.ɡəl|REK-tang-gul|noun|A2|🟪|c
+shapes|oval|நீள்வட்டம்|neelvattam|ˈoʊ.vəl|OH-vul|noun|A2|🥚|c
+shapes|star|நட்சத்திரம்|natchathiram|stɑːr|STAR|noun|A1|⭐|c
+shapes|heart|இதய வடிவம்|idhaya vadivam|hɑːrt|HART|noun|A1|❤️|c
+shapes|line|கோடு|kodu|laɪn|LYN|noun|A1|➖|c||lijn
+shapes|dot|புள்ளி|pulli|dɑːt|DAHT|noun|A1|•|c
+shapes|cube|கனசதுரம்|kanasathuram|kjuːb|KYOOB|noun|B1|🧊|c
+shapes|sphere|கோளம்|kolam|sfɪr|SFEER|noun|B1|⚪|c
+shapes|cone|கூம்பு|koombu|koʊn|KOHN|noun|B1|🍦|c
+shapes|cylinder|உருளை|urulai|ˈsɪl.ən.dɚ|SIL-un-der|noun|B1|🥫|c
+shapes|diamond|வைரம்|vairam|ˈdaɪ.mənd|DY-mund|noun|A2|💎|c
+shapes|arrow|அம்பு|ambu|ˈer.oʊ|AIR-oh|noun|A2|➡️|c
+shapes|corner|மூலை|mulai|ˈkɔːr.nɚ|KOR-ner|noun|A2|📐|c
